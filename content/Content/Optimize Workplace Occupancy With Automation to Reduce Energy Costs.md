@@ -1,20 +1,20 @@
 ---
-title: "**Optimize Workplace Occupancy With Automation to Reduce Energy Costs**"  
-date: "2024-01-09"  
-author: "PlaceOS"  
-type: "Video"  
-topics:  
-- "[[Occupancy]]"  
-- "[[Space Planning]]"  
-- "[[Hybrid Work]]"  
-- "[[Energy]]"  
-- "[[]]"  
-tags:  
-- "#workplaceefficiency"  
-- "#energyoptimization"  
-- "#smartautomation"  
-- "#occupancymanagement"  
-- "#sustainableworkspaces"  
+title: Optimize Workplace Occupancy With Automation to Reduce Energy Costs
+date: 2024-01-09
+author: PlaceOS
+type: Video
+topics:
+  - "[[Occupancy]]"
+  - "[[Space Planning]]"
+  - "[[Hybrid Work]]"
+  - "[[Energy]]"
+  - "[[]]"
+tags:
+  - "#workplaceefficiency"
+  - "#energyoptimization"
+  - "#smartautomation"
+  - "#occupancymanagement"
+  - "#sustainableworkspaces"
 ---
 This needs to change.
 

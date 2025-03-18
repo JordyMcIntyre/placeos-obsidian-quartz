@@ -1,18 +1,18 @@
 ---
-title: "**Coworking Insights With John Preece On Future Of Work And Office Experience**"  
-date: "2024-05-28"  
-author: "Jonathan McFarlane"  
-type: "Image"  
-topics:  
-- "[[Coworking]]"  
-- "[[Podcast]]"   
-tags:  
-- "#coworking"  
-- "#futureofwork"  
-- "#officeexperience"  
-- "#workplacetrends"  
-- "#podcastconversation"  
-- "#flexiblespace"  
+title: Coworking Insights With John Preece On Future Of Work And Office Experience
+date: 2024-05-28
+author: Jonathan McFarlane
+type: Image
+topics:
+  - "[[Coworking]]"
+  - "[[Podcast]]"
+tags:
+  - "#coworking"
+  - "#futureofwork"
+  - "#officeexperience"
+  - "#workplacetrends"
+  - "#podcastconversation"
+  - "#flexiblespace"
 ---
 If you want to learn about something.
 
