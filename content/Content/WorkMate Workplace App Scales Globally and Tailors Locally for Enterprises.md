@@ -7,7 +7,7 @@ topics:
 - "[[WorkMate]]"  
 - "[[Configuration]]"
 tags:  
-- "#workplaceapp"  
+- "#workplace"  
 - "#officespace"  
 - "#enterprisesolutions"  
 - "#scaleflexibility"  
@@ -47,4 +47,4 @@ Here’s how it works in 1 minute...
 
 #### Hashtags
 
-#workplaceapp #officespace #enterprisesolutions #scaleflexibility #customization #workmate
+#workplace #officespace #enterprisesolutions #scaleflexibility #customization #workmate

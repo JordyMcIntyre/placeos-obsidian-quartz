@@ -14,7 +14,7 @@ tags:
 - "#userexperience"  
 - "#workplacetech"  
 - "#digitalinterfaces"  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#technologyintegration"  
 ---
 While QR codes may not be the most riveting topic to discuss over hors d'oeuvres, I must confess I love them. My fascination with QR Codes stems from their ability to connect the physical world with the accessibility of the web, allowing us to access context-based interfaces effortlessly. For example, each morning, I scan the QR Code at the bus stop to determine if I should wait for the bus (it provides a live tracking web interface) or opt for the tram instead—it's probably the only government-produced interface I enjoy using!
@@ -53,4 +53,4 @@ Are we overly enthusiastic about QR Codes? Perhaps, but their practicality and v
 [[UX]]
 #### Hashtags
 
-#qrcodes #userexperience #workplacetech #digitalinterfaces #smartbuildings #technologyintegration
+#qrcodes #userexperience #workplacetech #digitalinterfaces #smart/buildings #technologyintegration

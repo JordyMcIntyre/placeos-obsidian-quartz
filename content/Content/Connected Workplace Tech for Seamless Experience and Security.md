@@ -8,7 +8,7 @@ topics:
 - "[[Podcast]]"  
 tags:  
 - "#workplaceexperience"  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#digitalintegration"  
 - "#realtimedata"  
 - "#legacytech"  
@@ -61,4 +61,4 @@ Which makes the workplace worth coming in to.
 
 #### Hashtags
 
-#workplaceexperience #smartbuildings #digitalintegration #realtimedata #legacytech #securetech
+#workplaceexperience #smart/buildings #digitalintegration #realtimedata #legacytech #securetech

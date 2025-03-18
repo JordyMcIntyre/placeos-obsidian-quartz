@@ -38,4 +38,4 @@ One simple workflow that's having a massive impact.
 
 #### Hashtags
 
-#workflowimpact #simpleworkflow #productivityboost #efficiencytips #worksmarternotHarder
+#workflowimpact #simpleworkflow #productivityboost #efficiencytips #worksmarternotharder

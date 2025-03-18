@@ -10,7 +10,7 @@ tags:
 - "#workplaceexperience"  
 - "#collaborativespace"  
 - "#modernoffice"  
-- "#smartworkspace"  
+- "#smartworkplace"  
 - "#officeinnovation"  
 ---
 Not every company has $2 Billion for a brand new office.
@@ -44,4 +44,4 @@ Here's how:
 
 #### Hashtags
 
-#workplaceexperience #collaborativespace #modernoffice #smartworkspace #officeinnovation
+#workplaceexperience #collaborativespace #modernoffice #smartworkplace #officeinnovation

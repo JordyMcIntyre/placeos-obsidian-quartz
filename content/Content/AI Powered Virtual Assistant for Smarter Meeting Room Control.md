@@ -10,7 +10,7 @@ tags:
 - "#futureofwork"  
 - "#digitaltransformation"  
 - "#employeeexperience"  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#virtualassistant"  
 - "#meetingroom" 
 --- 
@@ -45,7 +45,7 @@ The full list of functions each device, system or software has is now available 
 
 You ask, the AI figures it out.
 
-#futureofwork #digitaltransformation #employeeexperience #smartbuildings
+#futureofwork #digitaltransformation #employeeexperience #smart/buildings
 
 ### Media
 
@@ -64,4 +64,4 @@ You ask, the AI figures it out.
 
 #### Hashtags
 
-#futureofwork #digitaltransformation #employeeexperience #smartbuildings #virtualassistant #meetingroom
+#futureofwork #digitaltransformation #employeeexperience #smart/buildings #virtualassistant #meetingroom

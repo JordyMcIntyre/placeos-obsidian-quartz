@@ -10,14 +10,14 @@ topics:
 - "[[AI]]"
 - "[[Digital Signage]]"
 tags:  
-- "#IntegrateExpo"  
-- "#SmartBuilding"  
-- "#Wayfinding"  
-- "#Technology"  
-- "#PlaceOS"  
-- "#AOPEN" 
+- "#integrateexpo"  
+- "#smart/building"  
+- "#wayfinding"  
+- "#technology"  
+- "#placeos"  
+- "#aopen" 
 ---
-Counting down the days to Integrate Expo 2024! **#INT24**
+Counting down the days to Integrate Expo 2024! **#int24**
 
 PlaceOS will be showcasing their innovative Smart Building Control, Wayfinding, and Product Concierge technology, all powered by AOPEN devices.
 
@@ -47,4 +47,4 @@ Jordy McIntyre
 
 #### Hashtags
 
-#IntegrateExpo #SmartBuilding #Wayfinding #Technology #PlaceOS #AOPEN
+#integrateexpo #smart/building #wayfinding #technology #placeos #aopen

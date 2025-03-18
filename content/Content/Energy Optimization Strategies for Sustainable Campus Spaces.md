@@ -12,7 +12,7 @@ topics:
 tags:  
 - "#sustainablecampus"  
 - "#energyreduction"  
-- "#smartbuilding"  
+- "#smart/building"  
 - "#campusinnovation"  
 - "#efficiencyboost"  
 ---
@@ -61,4 +61,4 @@ This link to register and see more details: [https://lnkd.in/gCMAvYFw](https://l
 
 #### Hashtags
 
-#sustainablecampus #energyreduction #smartbuilding #campusinnovation #efficiencyboost
+#sustainablecampus #energyreduction #smart/building #campusinnovation #efficiencyboost

@@ -7,7 +7,7 @@ topics:
 - "[[Analytics]]"  
 - "[[AI]]"   
 tags:  
-- "#dataanalytics"  
+- "#dataanalysis"  
 - "#artificialintelligence"  
 - "#structureddata"  
 - "#datanormalization"  
@@ -38,4 +38,4 @@ You can't just collected streams of unstructured data and pump it into a bucket 
 [[AI]]  
 #### Hashtags
 
-#dataanalytics #artificialintelligence #structureddata #datanormalization #dataquality #businessinsights
+#dataanalysis #artificialintelligence #structureddata #datanormalization #dataquality #businessinsights

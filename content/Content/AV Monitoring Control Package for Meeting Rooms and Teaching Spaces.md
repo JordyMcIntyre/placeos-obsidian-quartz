@@ -12,7 +12,7 @@ topics:
 tags:  
 - "#avmonitoring"  
 - "#automation"  
-- "#meetingrooms"  
+- "#meetingroom"  
 - "#teachingspaces"  
 - "#controlsystem"
 ---
@@ -36,4 +36,4 @@ Sneak peek at our AV monitoring & control package—bringing turnkey automation 
 
 #### Hashtags
 
-#avmonitoring #automation #meetingrooms #teachingspaces #controlsystem
+#avmonitoring #automation #meetingroom #teachingspaces #controlsystem

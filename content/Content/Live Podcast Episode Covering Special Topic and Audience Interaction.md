@@ -10,7 +10,7 @@ tags:
 - "#livepodcast"  
 - "#podcastepisode"  
 - "#podcaststream"  
-- "#livestreaming"  
+- "#livestream"  
 - "#newformat"  
 ---
 A slight change to our regular programming- a live podcast episode.
@@ -32,4 +32,4 @@ A slight change to our regular programming- a live podcast episode.
 
 #### Hashtags
 
-#livepodcast #podcastepisode #podcaststream #livestreaming #newformat
+#livepodcast #podcastepisode #podcaststream #livestream #newformat

@@ -6,12 +6,12 @@ type: "Image"
 topics:  
 - "[[Partner]]"    
 tags:  
-- "#CiscoMeraki"  
-- "#TechPartner"  
-- "#SmartBuildings"  
-- "#Innovation"  
-- "#APIs"  
-- "#BusinessSolutions"
+- "#ciscomeraki"  
+- "#techpartner"  
+- "#smart/buildings"  
+- "#innovation"  
+- "#apis"  
+- "#businessoptions"
 ---
 **Cisco Meraki tech partner of the month 😮**
 
@@ -39,4 +39,4 @@ It's an honor to be receiving this acknowledgement.
 
 #### Hashtags
 
-#CiscoMeraki #TechPartner #SmartBuildings #Innovation #APIs #BusinessSolutions
+#ciscomeraki #techpartner #smart/buildings #innovation #apis #businessoptions

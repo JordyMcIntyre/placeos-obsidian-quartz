@@ -11,7 +11,7 @@ topics:
 - "[[]]"  
 tags:  
 - "#chatgptassistant"  
-- "#workplaceai"  
+- "#workplace"  
 - "#productivityboost"  
 - "#aiatwork"  
 - "#efficiencytips"  
@@ -34,4 +34,4 @@ Here's how we're using Chat GPT as a Workplace Assistant in 1 minute!
 
 #### Hashtags
 
-#chatgptassistant #workplaceai #productivityboost #aiatwork #efficiencytips
+#chatgptassistant #workplace #productivityboost #aiatwork #efficiencytips

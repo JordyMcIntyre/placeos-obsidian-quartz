@@ -7,7 +7,7 @@ topics:
 - "[[Podcast]]"  
 tags:  
 - "#womenintech"  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#leadership"  
 - "#diversityandinclusion"  
 - "#workplaceequity"  
@@ -39,4 +39,4 @@ It’s good for business. More women in your tech business reflects the market y
 
 #### Hashtags
 
-#womenintech #smartbuildings #leadership #diversityandinclusion #workplaceequity #internationalwomensday
+#womenintech #smart/buildings #leadership #diversityandinclusion #workplaceequity #internationalwomensday

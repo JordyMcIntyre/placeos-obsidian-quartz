@@ -8,8 +8,8 @@ topics:
 - "[[WorkMate]]"  
 - "[[Platform]]"    
 tags:  
-- "#workplaceapp"  
-- "#smartbuildings"  
+- "#workplace"  
+- "#smart/buildings"  
 - "#automationtech"  
 - "#energyefficiency"  
 - "#digitaltransformation"  
@@ -53,4 +53,4 @@ Here's what we mean by that ⬇️
 
 #### Hashtags
 
-#workplaceapp #smartbuildings #automationtech #energyefficiency #digitaltransformation #enterprisesolutions
+#workplace #smart/buildings #automationtech #energyefficiency #digitaltransformation #enterprisesolutions

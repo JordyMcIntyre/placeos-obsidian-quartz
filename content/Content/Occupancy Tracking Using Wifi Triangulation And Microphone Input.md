@@ -11,7 +11,7 @@ tags:
 - "#workflowautomation"  
 - "#spacemanagement"  
 - "#wifisensing"  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#workplacetech" 
 ---
 Leverage what you've got.
@@ -53,4 +53,4 @@ Expanding the options and possibility of tracking occupancy which in turn create
 
 #### Hashtags
 
-#occupancytracking #workflowautomation #spacemanagement #wifisensing #smartbuildings #workplacetech
+#occupancytracking #workflowautomation #spacemanagement #wifisensing #smart/buildings #workplacetech

@@ -9,12 +9,12 @@ topics:
 - "[[AI]]"  
 - "[[Event]]"   
 tags:  
-- "#SmartBuildings"  
-- "#AVTechnology"  
-- "#AIInnovation"  
-- "#FutureWorkspace"  
-- "#TechPartnership"  
-- "#PlaceOS" 
+- "#smart/buildings"  
+- "#technology"  
+- "#innovation"  
+- "#futureworkspace"  
+- "#techpartnership"  
+- "#placeos" 
 ---
 We're excited to showcase our partnership with PlaceOS, where we’re redefining smart building experiences.
 
@@ -24,7 +24,7 @@ For more information, visit → [www.aopensolutions.com](https://www.aopensoluti
 
 Catch PlaceOS CEO & Co-Founder **Jonathan McFarlane**'s session tomorrow at the Thinkers Theatre, **"AV as the Eyes and Ears of AI,"** from 12:40 to 13:05. Discover how AV technology is transforming AI and shaping the future of smart spaces. Not to be missed!
 
-AOPEN #Partnership #BrightIdeasConnected
+AOPEN #partnership #brightideasconnected
 
 ### Media
 
@@ -44,4 +44,4 @@ AOPEN #Partnership #BrightIdeasConnected
 [[Event]]  
 #### Hashtags
 
-#SmartBuildings #AVTechnology #AIInnovation #FutureWorkspace #TechPartnership #PlaceOS
+#smart/buildings #technology #innovation #futureworkspace #techpartnership #placeos

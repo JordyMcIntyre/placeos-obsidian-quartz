@@ -12,7 +12,7 @@ topics:
 tags:  
 - "#officespace"  
 - "#energyefficiency"  
-- "#smartworkplace"  
+- "#smart/workplace"  
 - "#workflowautomation"  
 - "#occupancytracking"  
 - "#futureofwork"  
@@ -66,4 +66,4 @@ And then automate:
 [[Sustainability]]  
 #### Hashtags
 
-#officespace #energyefficiency #smartworkplace #workflowautomation #occupancytracking #futureofwork
+#officespace #energyefficiency #smart/workplace #workflowautomation #occupancytracking #futureofwork

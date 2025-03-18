@@ -7,7 +7,7 @@ topics:
 - "[[Occupancy]]"  
 - "[[AI]]"   
 tags:  
-- "#smartbuilding"  
+- "#smart/building"  
 - "#userexperience"  
 - "#objectrecognition"  
 - "#artificialintelligence"  
@@ -35,4 +35,4 @@ This is where AI and object recognition can play a big part in improving experie
 [[AI]] 
 
 #### Hashtags
-#smartbuilding #userexperience #objectrecognition #artificialintelligence #spatialanalytics #buildingtech
+#smart/building #userexperience #objectrecognition #artificialintelligence #spatialanalytics #buildingtech

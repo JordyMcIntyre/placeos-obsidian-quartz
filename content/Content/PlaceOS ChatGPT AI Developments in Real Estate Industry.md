@@ -6,12 +6,12 @@ type: "Video"
 topics:  
 - "[[AI]]"   
 tags:  
-- "#GenAI"  
-- "#RealEstateAI"  
-- "#AIInnovation"  
-- "#ChatGPT"  
-- "#PlaceOS"  
-- "#FutureOfWork"
+- "#genai"  
+- "#realestate"  
+- "#innovation"  
+- "#chatgpt"  
+- "#placeos"  
+- "#futureofwork"
 ---
 
 It feels like everyday there's new developments in AI.
@@ -42,4 +42,4 @@ You can join the Live Demonstration here → [https://lnkd.in/eMp8wqYZ](https://
 
 #### Hashtags
 
-#GenAI #RealEstateAI #AIInnovation #ChatGPT #PlaceOS #FutureOfWork
+#genai #realestate #innovation #chatgpt #placeos #futureofwork

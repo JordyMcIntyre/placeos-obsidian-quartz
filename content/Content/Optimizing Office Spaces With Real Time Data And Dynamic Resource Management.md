@@ -10,7 +10,7 @@ tags:
 - "#officedynamics"  
 - "#workplacetech"  
 - "#realtimedata"  
-- "#smartoﬀice"  
+- "#smartoice"  
 - "#futureofwork"  
 ---
 There is more to the office than desks and meeting rooms. Turning these into bookable resources does not make everything efficient.  
@@ -37,4 +37,4 @@ For the full episode: [https://lnkd.in/efTFq9-v](https://lnkd.in/efTFq9-v)
 
 #### Hashtags
 
-#officedynamics #workplacetech #realtimedata #smartoﬀice #futureofwork
+#officedynamics #workplacetech #realtimedata #smartoice #futureofwork

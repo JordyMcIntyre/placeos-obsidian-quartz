@@ -6,7 +6,7 @@ type: "Image"
 topics:  
 - "[[Platform]]"  
 tags:  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#middleeasttech"  
 - "#proptech"  
 - "#buildingsolutions"  
@@ -32,4 +32,4 @@ Let me know if you would like an intro.
 
 #### Hashtags
 
-#smartbuildings #middleeasttech #proptech #buildingsolutions #futurecities
+#smart/buildings #middleeasttech #proptech #buildingsolutions #futurecities

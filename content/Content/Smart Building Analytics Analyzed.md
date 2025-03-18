@@ -6,7 +6,7 @@ type: "Image"
 topics:  
 - "[[Analytics]]"  
 tags:  
-- "#smartbuilding" 
+- "#smart/building" 
 ---
 
 
@@ -32,4 +32,4 @@ Important report.
 
 #### Hashtags
 
-#smartbuildings 
+#smart/buildings 

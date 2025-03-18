@@ -11,7 +11,7 @@ topics:
 - "[[Visitor Management]]"  
 tags:  
 - "#parkingutilization"  
-- "#deskbookings"  
+- "#deskbooking"  
 - "#visitorcustomization"  
 - "#languagesupport"  
 - "#workmateupdate"
@@ -57,4 +57,4 @@ Here's everything you need to know:
 
 #### Hashtags
 
-#parkingutilization #deskbookings #visitorcustomization #languagesupport #workmateupdate
+#parkingutilization #deskbooking #visitorcustomization #languagesupport #workmateupdate

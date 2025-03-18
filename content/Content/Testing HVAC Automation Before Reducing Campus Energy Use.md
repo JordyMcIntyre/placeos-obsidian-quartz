@@ -11,7 +11,7 @@ topics:
 - "[[Automation]]"  
 tags:  
 - "#energyefficiency"  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#workplaceautomation"  
 - "#hvacoptimization"  
 - "#sustainablecampus"  
@@ -60,4 +60,4 @@ Testing first ensures you don’t disrupt operations to figure these things out.
 [[Automation]]
 #### Hashtags
 
-#energyefficiency #smartbuildings #workplaceautomation #hvacoptimization #sustainablecampus #datadrivendecisions
+#energyefficiency #smart/buildings #workplaceautomation #hvacoptimization #sustainablecampus #datadrivendecisions

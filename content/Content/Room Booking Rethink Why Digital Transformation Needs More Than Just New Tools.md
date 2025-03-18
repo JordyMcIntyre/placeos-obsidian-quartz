@@ -10,7 +10,7 @@ topics:
 tags:  
 - "#digitaltransformation"  
 - "#processdesign"  
-- "#workplaceinnovation"  
+- "#workspaceinnovation"  
 - "#futureofwork"  
 - "#adaptiveworkspaces"  
 ---
@@ -59,4 +59,4 @@ So, what processes in your business need a complete rethink?
 
 #### Hashtags
 
-#digitaltransformation #processdesign #workplaceinnovation #futureofwork #adaptiveworkspaces
+#digitaltransformation #processdesign #workspaceinnovation #futureofwork #adaptiveworkspaces

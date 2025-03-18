@@ -9,8 +9,8 @@ tags:
 - "#webdevelopment"  
 - "#artificialintelligence"  
 - "#futureinternet"  
-- "#digitalagents"  
-- "#aiintegration"  
+- "#digitalage"  
+- "#integration"  
 ---
 Current websites were (mostly) built for humans and APIs were (mostly) built for developers (a special type of human).  
 Mobile sites were built for humans using mobile devices.  
@@ -36,4 +36,4 @@ I wonder if we'll see websites created specifically for use by agent AIs.
 
 #### Hashtags
 
-#webdevelopment #artificialintelligence #futureinternet #digitalagents #aiintegration
+#webdevelopment #artificialintelligence #futureinternet #digitalage #integration

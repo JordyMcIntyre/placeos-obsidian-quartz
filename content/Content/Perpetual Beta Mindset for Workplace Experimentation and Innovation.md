@@ -6,7 +6,7 @@ type: "Video"
 topics:  
 - "[[Podcast]]"  
 tags:  
-- "#workplaceinnovation"  
+- "#workspaceinnovation"  
 - "#perpetualbeta"  
 - "#experimentation"  
 - "#futureofwork"  
@@ -38,4 +38,4 @@ Taken from Episode 1 of the Workplace Insights Podcast - **UnWorking the Workpla
 
 #### Hashtags
 
-#workplaceinnovation #perpetualbeta #experimentation #futureofwork #workplaceinsights #continuousimprovement
+#workspaceinnovation #perpetualbeta #experimentation #futureofwork #workplaceinsights #continuousimprovement

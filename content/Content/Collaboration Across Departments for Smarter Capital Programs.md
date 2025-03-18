@@ -8,11 +8,11 @@ topics:
 - "[[Workplace]]"  
 tags:  
 - "#collaboration"  
-- "#systemsThinking"  
-- "#breakingSilos"  
+- "#systemsthinking"  
+- "#breakingsilos"  
 - "#crossfunctional"  
-- "#capitalProjects"  
-- "#strategicPlanning"  
+- "#capitalprojects"  
+- "#strategicplanning"  
 ---
 It's all too common to see different departments solving the same problems or solving problems in siloes.
 
@@ -44,4 +44,4 @@ It's about getting the right people in the room from different departments. Whic
 
 #### Hashtags
 
-#collaboration #systemsThinking #breakingSilos #crossfunctional #capitalProjects #strategicPlanning
+#collaboration #systemsthinking #breakingsilos #crossfunctional #capitalprojects #strategicplanning

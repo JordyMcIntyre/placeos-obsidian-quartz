@@ -11,8 +11,8 @@ tags:
 - "#mentorship"  
 - "#innovation"  
 - "#entrepreneurship"  
-- "#AIstartup"  
-- "#SydneyTech"  
+- "#aistartup"  
+- "#sydneytech"  
 ---
 
 
@@ -38,4 +38,4 @@ I will put some of that contagious start-up energy back into my own work.
 
 #### Hashtags
 
-#startupgrowth #mentorship #innovation #entrepreneurship #AIstartup #SydneyTech
+#startupgrowth #mentorship #innovation #entrepreneurship #aistartup #sydneytech

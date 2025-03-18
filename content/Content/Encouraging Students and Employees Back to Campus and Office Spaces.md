@@ -11,7 +11,7 @@ tags:
 - "#workplacechange"  
 - "#campusengagement"  
 - "#futureofwork"  
-- "#officeculture"  
+- "#officefuture"  
 - "#highereducation"  
 - "#spacedesign" 
 ---
@@ -45,4 +45,4 @@ There's a lot to take away from this, you can watch the whole conversation here:
 
 #### Hashtags
 
-#workplacechange #campusengagement #futureofwork #officeculture #highereducation #spacedesign
+#workplacechange #campusengagement #futureofwork #officefuture #highereducation #spacedesign

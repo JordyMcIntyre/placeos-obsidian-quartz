@@ -6,11 +6,11 @@ type: "Image"
 topics:  
 - "[[Campus]]"   
 tags:  
-- "#SpringVibes"  
-- "#BeautifulCampus"  
-- "#McMasterUni"  
-- "#CampusLife"  
-- "#SpringFeels" 
+- "#springvibes"  
+- "#beautifulcampus"  
+- "#mcmasteruni"  
+- "#campuslife"  
+- "#springfeels" 
 ---
 
  
@@ -34,4 +34,4 @@ Thanks for having me McMaster Uni.
 
 #### Hashtags
 
-#SpringVibes #BeautifulCampus #McMasterUni #CampusLife #SpringFeels
+#springvibes #beautifulcampus #mcmasteruni #campuslife #springfeels

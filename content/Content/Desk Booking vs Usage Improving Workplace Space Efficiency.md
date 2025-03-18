@@ -13,7 +13,7 @@ tags:
 - "#workplaceefficiency"  
 - "#deskcheckin"  
 - "#officeplanning"  
-- "#smartworkspace"
+- "#smartworkplace"
 ---
 Let’s look at the metric: **desk bookings vs desk usage**
 
@@ -52,4 +52,4 @@ How are you tracking actual desk usage in your workplace?
 
 #### Hashtags
 
-#deskbooking #spaceusage #workplaceefficiency #deskcheckin #officeplanning #smartworkspace
+#deskbooking #spaceusage #workplaceefficiency #deskcheckin #officeplanning #smartworkplace

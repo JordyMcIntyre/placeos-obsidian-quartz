@@ -12,7 +12,7 @@ tags:
 - "#occupancymanagement"  
 - "#workflowautomation"  
 - "#energyoptimization"  
-- "#smartoffices"  
+- "#smart/office"  
 - "#futureofwork"  
 - "#employeeexperience" 
 ---
@@ -67,4 +67,4 @@ And then automate:
 
 #### Hashtags
 
-#occupancymanagement #workflowautomation #energyoptimization #smartoffices #futureofwork #employeeexperience
+#occupancymanagement #workflowautomation #energyoptimization #smart/office #futureofwork #employeeexperience

@@ -7,7 +7,7 @@ topics:
 - "[[Podcast]]"  
 - "[[Workplace]]"   
 tags:  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#workplace"  
 - "#returntowork"  
 - "#buildingsolutions"  
@@ -19,7 +19,7 @@ That's why I sat down with Shane to go through what it takes to deliver smart bu
 
 For the full podcast: [https://lnkd.in/gkyzGiz](https://lnkd.in/gkyzGiz)
 
-#smartbuildings #workplace
+#smart/buildings #workplace
 
 ### Media
 
@@ -38,4 +38,4 @@ For the full podcast: [https://lnkd.in/gkyzGiz](https://lnkd.in/gkyzGiz)
 
 #### Hashtags
 
-#smartbuildings #workplace #returntowork #buildingsolutions #innovation
+#smart/buildings #workplace #returntowork #buildingsolutions #innovation

@@ -12,9 +12,9 @@ tags:
 - "#energyefficiency"  
 - "#sustainablebuildings"  
 - "#buildinganalytics"  
-- "#workplaceinnovation"  
+- "#workspaceinnovation"  
 - "#realestateinsights"  
-- "#smartbuildings" 
+- "#smart/buildings" 
 ---
 Energy and sustainability are top of mind right now. With commercial real estate responsible for 40% of global CO2 emissions, it's an issue that's got building operators looking for answers.
 
@@ -43,4 +43,4 @@ We'll also be covering our Outlook Plugin for Room & Desk Booking and our redesi
 
 #### Hashtags
 
-#energyefficiency #sustainablebuildings #buildinganalytics #workplaceinnovation #realestateinsights #smartbuildings
+#energyefficiency #sustainablebuildings #buildinganalytics #workspaceinnovation #realestateinsights #smart/buildings

@@ -11,7 +11,7 @@ tags:
 - "#aisignals"  
 - "#understandingai"  
 - "#simpleinteraction"  
-- "#aiinnovation"  
+- "#innovation"  
 ---
 If you need help, you put your hand up.
 
@@ -43,4 +43,4 @@ And triggers an action.
 
 #### Hashtags
 
-#humaninput #aisignals #understandingai #simpleinteraction #aiinnovation
+#humaninput #aisignals #understandingai #simpleinteraction #innovation

@@ -6,13 +6,13 @@ type: "Image"
 topics:  
 - "[[Partner]]"   
 tags:  
-- "#MerakiMarketplace"  
-- "#TechPartner"  
-- "#WorkplaceAutomation"  
-- "#SmartOffice"  
-- "#DigitalTransformation"  
+- "#merakimarketplace"  
+- "#techpartner"  
+- "#workplaceautomation"  
+- "#smart/office"  
+- "#digitaltransformation"  
 ---
-Introducing **#MerakiMarketplace** Tech Partner of the Month, PlaceOS 🏆
+Introducing **#merakimarketplace** Tech Partner of the Month, PlaceOS 🏆
 
 PlaceOS unlocks the hidden potential of the workplace, allowing you to leverage a centralized control hub, automate workflows, and improve workplace performance.
 
@@ -35,4 +35,4 @@ Get overview ⬇️
 
 #### Hashtags
 
-#MerakiMarketplace #TechPartner #WorkplaceAutomation #SmartOffice #DigitalTransformation
+#merakimarketplace #techpartner #workplaceautomation #smart/office #digitaltransformation

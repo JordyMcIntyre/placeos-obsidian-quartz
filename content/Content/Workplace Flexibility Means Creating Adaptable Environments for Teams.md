@@ -10,7 +10,7 @@ topics:
 tags:  
 - "#workplaceflexibility"  
 - "#adaptablespaces"  
-- "#teamcollaboration"  
+- "#collaboration"  
 - "#dynamicwork"  
 - "#modularoffice"  
 - "#futureofwork"  
@@ -49,4 +49,4 @@ How is your workplace handling the demand for larger, more adaptable spaces?
 
 #### Hashtags
 
-#workplaceflexibility #adaptablespaces #teamcollaboration #dynamicwork #modularoffice #futureofwork
+#workplaceflexibility #adaptablespaces #collaboration #dynamicwork #modularoffice #futureofwork

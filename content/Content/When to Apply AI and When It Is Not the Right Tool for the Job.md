@@ -11,7 +11,7 @@ tags:
 - "#firstprinciples"  
 - "#bestpractices"  
 - "#technologystrategy"  
-- "#aiconversations"  
+- "#aiconversation"  
 ---
 Stephen & I talk about AI almost every day.
 
@@ -48,4 +48,4 @@ Enjoy.
 
 #### Hashtags
 
-#artificialintelligence #aiethics #firstprinciples #bestpractices #technologystrategy #aiconversations
+#artificialintelligence #aiethics #firstprinciples #bestpractices #technologystrategy #aiconversation

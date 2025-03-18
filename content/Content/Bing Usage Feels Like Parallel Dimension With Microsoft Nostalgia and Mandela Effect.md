@@ -6,11 +6,11 @@ type: "Text"
 topics:  
 - "[[AI]]"   
 tags:  
-- "#BingReality"  
-- "#MandelaEffect"  
-- "#ParallelDimension"  
-- "#UnderTheDome"  
-- "#MicrosoftEverywhere"  
+- "#bingreality"  
+- "#mandelaeffect"  
+- "#paralleldimension"  
+- "#underthedome"  
+- "#microsofteverywhere"  
 ---
 I still can’t get my head around the fact I’m using Bing every day. It’s like I’ve slipped into a parallel dimension.
 
@@ -34,4 +34,4 @@ Does Google even exist or is my memory of it just the Mandela Effect? Let me ask
 
 #### Hashtags
 
-#BingReality #MandelaEffect #ParallelDimension #UnderTheDome #MicrosoftEverywhere
+#bingreality #mandelaeffect #paralleldimension #underthedome #microsofteverywhere

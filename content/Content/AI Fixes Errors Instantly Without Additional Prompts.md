@@ -10,11 +10,11 @@ topics:
 - "[[]]"  
 - "[[]]"  
 tags:  
-- "#aiinnovation"  
+- "#innovation"  
 - "#chatgptplugin"  
 - "#errorfixing"  
 - "#instantcorrection"  
-- "#smarterautomation"  
+- "#smartautomation"  
 ---
 What blows my mind about AI is its ability to fix errors on the fly.
 
@@ -38,4 +38,4 @@ If there were a formatting error in a traditional interface, it would fail, and 
 
 #### Hashtags
 
-#aiinnovation #chatgptplugin #errorfixing #instantcorrection #smarterautomation
+#innovation #chatgptplugin #errorfixing #instantcorrection #smartautomation

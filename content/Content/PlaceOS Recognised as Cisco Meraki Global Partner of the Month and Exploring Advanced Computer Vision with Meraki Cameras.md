@@ -6,12 +6,12 @@ type: "Text"
 topics:  
 - "[[Partner]]"   
 tags:  
-- "#PlaceOS"  
-- "#CiscoMeraki"  
-- "#ComputerVision"  
-- "#SmartSpaces"  
-- "#TechnologyInnovation"  
-- "#PartnerRecognition"  
+- "#placeos"  
+- "#ciscomeraki"  
+- "#computervision"  
+- "#smartplaces"  
+- "#technologyInnovation"  
+- "#partnerrecognition"  
 ---
 Thrilled to share that PlaceOS has been recognised as Cisco Meraki’s Global Partner of the Month! 🎉
 
@@ -35,4 +35,4 @@ It’s a privilege to work with the **Cisco Meraki** team.
 
 #### Hashtags
 
-#PlaceOS #CiscoMeraki #ComputerVision #SmartSpaces #TechnologyInnovation #PartnerRecognition
+#placeos #ciscomeraki #computervision #smartplaces #technologyInnovation #partnerrecognition

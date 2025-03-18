@@ -10,11 +10,11 @@ topics:
 - "[[]]"  
 - "[[]]"  
 tags:  
-- "#smartworkplace"  
+- "#smart/workplace"  
 - "#buildingautomation"  
 - "#digitaltransformation"  
 - "#enterpriseintegration"  
-- "#technologyinnovation"  
+- "#technologyInnovation"  
 - "#workplacesolutions"
 ---
 **RE-UP:** We are not a workplace app.
@@ -53,4 +53,4 @@ Here's what we mean by that ⬇️
 
 #### Hashtags
 
-#smartworkplace #buildingautomation #digitaltransformation #enterpriseintegration #technologyinnovation #workplacesolutions
+#smart/workplace #buildingautomation #digitaltransformation #enterpriseintegration #technologyInnovation #workplacesolutions

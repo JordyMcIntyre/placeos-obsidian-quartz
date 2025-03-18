@@ -9,9 +9,9 @@ topics:
 - "[[Event]]"  
 tags:  
 - "#energyefficiency"  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#campusexperience"  
-- "#HVACoptimization"  
+- "#hvacoptimization"  
 - "#occupancydata"  
 - "#webinar"
 ---
@@ -47,4 +47,4 @@ It's on tomorrow, all the details are here: [https://lnkd.in/gCMAvYFw](https://l
 
 #### Hashtags
 
-#energyefficiency #smartbuildings #campusexperience #HVACoptimization #occupancydata #webinar
+#energyefficiency #smart/buildings #campusexperience #hvacoptimization #occupancydata #webinar

@@ -11,7 +11,7 @@ topics:
 - "[[Downsizing]]"  
 tags:  
 - "#emptyoffice"  
-- "#workspaceplanning"  
+- "#spaceplanning"  
 - "#officespace"  
 - "#businessstrategy"  
 - "#workplacetrends"  
@@ -41,4 +41,4 @@ Downsizing isn't always the answer to an empty office.
 
 #### Hashtags
 
-#emptyoffice #workspaceplanning #officespace #businessstrategy #workplacetrends
+#emptyoffice #spaceplanning #officespace #businessstrategy #workplacetrends

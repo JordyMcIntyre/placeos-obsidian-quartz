@@ -10,9 +10,9 @@ topics:
 tags:  
 - "#bookableneighborhoods"  
 - "#flexiblespaces"  
-- "#workplaceinnovation"  
-- "#teamcollaboration"  
-- "#smartworkspace"  
+- "#workspaceinnovation"  
+- "#collaboration"  
+- "#smartworkplace"  
 - "#governmentworkspace"  
 ---
 We ran a POC for a government agency.
@@ -57,4 +57,4 @@ We can take this a step further by grouping people in their team or department u
 
 #### Hashtags
 
-#bookableneighborhoods #flexiblespaces #workplaceinnovation #teamcollaboration #smartworkspace #governmentworkspace
+#bookableneighborhoods #flexiblespaces #workspaceinnovation #collaboration #smartworkplace #governmentworkspace

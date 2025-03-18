@@ -6,11 +6,11 @@ type: "Image"
 topics:  
 - "[[AI]]"   
 tags:  
-- "#opensourceAI"  
-- "#metaLLAMA"  
-- "#AIethics"  
-- "#futureofAI"  
-- "#AIrisks"  
+- "#opensourceai"  
+- "#metallama"  
+- "#aiethics"  
+- "#futureofai"  
+- "#airisks"  
 - "#techdebate"  
 ---
 Are we open-sourcing the end of the world?
@@ -56,4 +56,4 @@ On your platform of choice: [https://lnkd.in/gCdtqniE](https://lnkd.in/gCdtqniE)
 
 #### Hashtags
 
-#opensourceAI #metaLLAMA #AIethics #futureofAI #AIrisks #techdebate
+#opensourceai #metallama #aiethics #futureofai #airisks #techdebate

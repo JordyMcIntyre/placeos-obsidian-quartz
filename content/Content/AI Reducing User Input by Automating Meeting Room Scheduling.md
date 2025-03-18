@@ -42,7 +42,7 @@ But there's only one way this becomes possible.
 
 Integration with relevant and normalized data and robust APIs.
 
-#iot #smartbuildings #ai
+#iot #smart/buildings #ai
 
 ### Media
 

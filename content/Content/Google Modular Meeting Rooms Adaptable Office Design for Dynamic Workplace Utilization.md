@@ -14,7 +14,7 @@ tags:
 - "#officedesign"  
 - "#spacemanagement"  
 - "#workplacetrends"  
-- "#meetingrooms"  
+- "#meetingroom"  
 - "#officeinnovation"  
 ---
 **Is this the most modular workplace in the world?**
@@ -66,4 +66,4 @@ They did a lot more with desks and space types in this project but the full vide
 [[Modular Spaces]]
 #### Hashtags
 
-#modularworkplace #officedesign #spacemanagement #workplacetrends #meetingrooms #officeinnovation
+#modularworkplace #officedesign #spacemanagement #workplacetrends #meetingroom #officeinnovation

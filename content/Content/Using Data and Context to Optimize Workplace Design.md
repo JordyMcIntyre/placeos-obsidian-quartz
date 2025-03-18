@@ -11,9 +11,9 @@ tags:
 - "#workplacestrategy"  
 - "#spacedesign"  
 - "#officedata"  
-- "#coworkingtrends"  
+- "#bookingtrends"  
 - "#employeeexperience"  
-- "#smartworkspace"
+- "#smartworkplace"
 ---
 If we count how many people are coming in each day, we'll know how much space we need?
 
@@ -62,4 +62,4 @@ We talk about (and do) this a lot at PlaceOS. If you want to have a conversation
 
 #### Hashtags
 
-#workplacestrategy #spacedesign #officedata #coworkingtrends #employeeexperience #smartworkspace
+#workplacestrategy #spacedesign #officedata #bookingtrends #employeeexperience #smartworkplace

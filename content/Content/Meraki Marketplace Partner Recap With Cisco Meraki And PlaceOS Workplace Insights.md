@@ -7,14 +7,14 @@ topics:
 - "[[Article]]"  
 - "[[Partner]]"  
 tags:  
-- "#MerakiMarketplace"  
-- "#CiscoMeraki"  
-- "#PlaceOS"  
-- "#SmartWorkplace"  
-- "#WirelessSolutions"  
-- "#FutureOfWork"  
+- "#merakimarketplace"  
+- "#ciscomeraki"  
+- "#placeos"  
+- "#smart/workplace"  
+- "#wirelesssolutions"  
+- "#futureofwork"  
 ---
-Adding a touch of holiday flavor as we continue the **#MerakiMarketplace** ecosystem partner of the month recap ⛄⛄⛄
+Adding a touch of holiday flavor as we continue the **#merakimarketplace** ecosystem partner of the month recap ⛄⛄⛄
 
 **Cisco Meraki and PlaceOS,**  
 Unlock potential at your place,  
@@ -45,4 +45,4 @@ Your workplace will shine, we swear!
 
 #### Hashtags
 
-#MerakiMarketplace #CiscoMeraki #PlaceOS #SmartWorkplace #WirelessSolutions #FutureOfWork
+#merakimarketplace #ciscomeraki #placeos #smart/workplace #wirelesssolutions #futureofwork

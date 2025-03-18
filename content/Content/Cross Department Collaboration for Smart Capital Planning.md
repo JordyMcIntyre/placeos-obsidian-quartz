@@ -8,7 +8,7 @@ topics:
 tags:  
 - "#collaboration"  
 - "#systemsthinking"  
-- "#breakingSilos"  
+- "#breakingsilos"  
 - "#crossfunctional"  
 - "#strategicalignment"  
 - "#teamwork"
@@ -44,4 +44,4 @@ Which is where people like Ciaran have a role to play.
 
 #### Hashtags
 
-#collaboration #systemsthinking #breakingSilos #crossfunctional #strategicalignment #teamwork
+#collaboration #systemsthinking #breakingsilos #crossfunctional #strategicalignment #teamwork

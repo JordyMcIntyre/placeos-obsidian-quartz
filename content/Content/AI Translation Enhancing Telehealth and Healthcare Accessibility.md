@@ -9,7 +9,7 @@ topics:
 tags:  
 - "#healthcaretranslation"  
 - "#medicalai"  
-- "#aiintegration"  
+- "#integration"  
 - "#realtimetranslation"  
 - "#machinelearning"  
 ---
@@ -56,4 +56,4 @@ Curious to see what ways other people are integrating this technology into their
 [[Telehealth]]  
 #### Hashtags
 
-#healthcaretranslation #medicalai #aiintegration #realtimetranslation #machinelearning
+#healthcaretranslation #medicalai #integration #realtimetranslation #machinelearning

@@ -13,7 +13,7 @@ tags:
 - "#utilizationdata"  
 - "#employeeexperience"  
 - "#officetrends"  
-- "#workspaceinnovation"  
+- "#workspace/innovation"  
 ---
 Utilization going up from Q2-Q3 isn't going to run your business any better.
 
@@ -51,4 +51,4 @@ Who else has report fatigue 🫠
 
 #### Hashtags
 
-#workplaceinsights #spacedesign #utilizationdata #employeeexperience #officetrends #workspaceinnovation
+#workplaceinsights #spacedesign #utilizationdata #employeeexperience #officetrends #workspace/innovation

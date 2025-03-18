@@ -10,11 +10,11 @@ topics:
 - "[[Meeting Rooms]]"  
 - "[[Desk Booking]]"  
 tags:  
-- "#meetingrooms"  
+- "#meetingroom"  
 - "#deskbooking"  
 - "#workplaceexperience"  
-- "#officeautomation"  
-- "#teamcollaboration"  
+- "#voiceautomation"  
+- "#collaboration"  
 - "#workspaceoptimization"  
 ---
 
@@ -85,4 +85,4 @@ Basically it comes down to removing friction, being connected to the right data 
 
 #### Hashtags
 
-#meetingrooms #deskbooking #workplaceexperience #officeautomation #teamcollaboration #workspaceoptimization
+#meetingroom #deskbooking #workplaceexperience #voiceautomation #collaboration #workspaceoptimization

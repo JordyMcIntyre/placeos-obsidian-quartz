@@ -11,7 +11,7 @@ topics:
 tags:  
 - "#hybridwork"  
 - "#flexibilitymatters"  
-- "#worklocations"  
+- "#worklocation"  
 - "#remotework"  
 - "#collaboration"  
 ---
@@ -43,4 +43,4 @@ Set your location by time and day.
 
 #### Hashtags
 
-#hybridwork #flexibilitymatters #worklocations #remotework #collaboration
+#hybridwork #flexibilitymatters #worklocation #remotework #collaboration

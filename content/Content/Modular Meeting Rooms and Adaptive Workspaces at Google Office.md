@@ -13,7 +13,7 @@ tags:
 - "#flexibleoffice"  
 - "#spacedesign"  
 - "#officetrends"  
-- "#workspaceinnovation"  
+- "#workspace/innovation"  
 ---
 **Is this the most modular workplace in the world?**
 
@@ -65,4 +65,4 @@ They did a lot more with desks and space types in this project but the full vide
 
 #### Hashtags
 
-#modularworkplace #flexibleoffice #spacedesign #officetrends #workspaceinnovation
+#modularworkplace #flexibleoffice #spacedesign #officetrends #workspace/innovation

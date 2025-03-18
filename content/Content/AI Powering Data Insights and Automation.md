@@ -7,7 +7,7 @@ topics:
 - "[[AI]]"  
 - "[[Analytics]]"    
 tags:  
-- "#dataanalytics"  
+- "#dataanalysis"  
 - "#aiinsights"  
 - "#datadriven"  
 - "#automation"  
@@ -45,4 +45,4 @@ This is what's most interesting for us, data being used as a tool and a trigger 
 
 #### Hashtags
 
-#dataanalytics #aiinsights #datadriven #automation #artificialintelligence #decisionmaking
+#dataanalysis #aiinsights #datadriven #automation #artificialintelligence #decisionmaking

@@ -10,12 +10,12 @@ topics:
 - "[[]]"  
 - "[[]]"  
 tags:  
-- "#smartspaces"  
+- "#smartplaces"  
 - "#decisionmaking"  
 - "#contextualinsights"  
 - "#actionableoutcomes"  
-- "#workplaceinnovation"  
-- "#AIconversation" 
+- "#workspaceinnovation"  
+- "#aiconversation" 
 ---
 Even with the introduction of AI into smart spaces, it's still all about:
 
@@ -45,4 +45,4 @@ Taken from my most recent conversation with Philip Ross on the Workplace Insight
 
 #### Hashtags
 
-#smartspaces #decisionmaking #contextualinsights #actionableoutcomes #workplaceinnovation #AIconversation
+#smartplaces #decisionmaking #contextualinsights #actionableoutcomes #workspaceinnovation #aiconversation

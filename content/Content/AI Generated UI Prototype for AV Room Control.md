@@ -7,12 +7,12 @@ topics:
 - "[[AV]]"  
 - "[[AI]]"  
 tags:  
-- "#AIUI"  
-- "#PromptBasedDesign"  
-- "#AVControl"  
-- "#RapidPrototyping"  
-- "#SmartWorkplace"  
-- "#PlaceOS"  
+- "#aiui"  
+- "#promptbaseddesign"  
+- "#avcontrol"  
+- "#rapidprototyping"  
+- "#smart/workplace"  
+- "#placeos"  
 ---
 **We built an AV control prototype in one phone call**
 
@@ -99,4 +99,4 @@ If you could build any interface using AI, what would you create?
 
 #### Hashtags
 
-#AIUI #PromptBasedDesign #AVControl #RapidPrototyping #SmartWorkplace #PlaceOS
+#aiui #promptbaseddesign #avcontrol #rapidprototyping #smart/workplace #placeos

@@ -8,8 +8,8 @@ topics:
 - "[[Room Booking]]"  
 - "[[AV]]"  
 tags:  
-- "#AIroomcontrol"  
-- "#smartspaces"  
+- "#ai/control"  
+- "#smartplaces"  
 - "#voiceautomation"  
 - "#touchlesstech"  
 - "#buildinginnovation"  
@@ -49,4 +49,4 @@ You can see the demo in person at integrate alongside our partners AOPEN APAC.
 
 #### Hashtags
 
-#AIroomcontrol #smartspaces #voiceautomation #touchlesstech #buildinginnovation #userexperience
+#ai/control #smartplaces #voiceautomation #touchlesstech #buildinginnovation #userexperience

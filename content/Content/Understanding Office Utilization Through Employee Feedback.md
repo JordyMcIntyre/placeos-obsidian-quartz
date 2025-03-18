@@ -9,9 +9,9 @@ topics:
 - "[[Surveys]]"
 tags:  
 - "#officeutilization"  
-- "#workspaceinsights"  
+- "#workplaceinsights"  
 - "#employeefeedback"  
-- "#smartoffice"  
+- "#smart/office"  
 - "#workplaceexperience"  
 ---
 The most common missing factor in office utilization...
@@ -48,4 +48,4 @@ With PlaceOS, we make it easy to collect context by capturing people's feedback 
 
 #### Hashtags
 
-#officeutilization #workspaceinsights #employeefeedback #smartoffice #workplaceexperience
+#officeutilization #workplaceinsights #employeefeedback #smart/office #workplaceexperience

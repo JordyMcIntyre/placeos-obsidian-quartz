@@ -14,7 +14,7 @@ tags:
 - "#datadrivendecisions"  
 - "#officeexperience"  
 - "#workplaceefficiency"  
-- "#smartoffices"  
+- "#smart/office"  
 ---
 Why? It's the hardest question to answer when it comes to understanding your office.
 
@@ -87,4 +87,4 @@ Then, you need to be dynamic and control things in real-time to improve experien
 
 #### Hashtags
 
-#officeoccupancy #workplaceinsights #datadrivendecisions #officeexperience #workplaceefficiency #smartoffices
+#officeoccupancy #workplaceinsights #datadrivendecisions #officeexperience #workplaceefficiency #smart/office

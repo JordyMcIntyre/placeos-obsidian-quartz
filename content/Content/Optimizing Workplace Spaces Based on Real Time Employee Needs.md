@@ -12,7 +12,7 @@ tags:
 - "#employeeexperience"  
 - "#spacedesign"  
 - "#officetrends"  
-- "#smartworkspaces"  
+- "#smartworkplaces"  
 - "#dataoptimization"
 ---
 
@@ -52,4 +52,4 @@ Who else has report fatigue 🫠
 
 #### Hashtags
 
-#workplaceinsights #employeeexperience #spacedesign #officetrends #smartworkspaces #dataoptimization
+#workplaceinsights #employeeexperience #spacedesign #officetrends #smartworkplaces #dataoptimization

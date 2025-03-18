@@ -7,7 +7,7 @@ topics:
 - "[[Platform]]"  
 - "[[APIs]]"    
 tags:  
-- "#smartbuilding"  
+- "#smart/building"  
 - "#automationplatform"  
 - "#digitaltransformation"  
 - "#workplacesolutions"  
@@ -51,4 +51,4 @@ Here's what we mean by that ⬇️
 
 #### Hashtags
 
-#smartbuilding #automationplatform #digitaltransformation #workplacesolutions #enterprisetech #futureofwork
+#smart/building #automationplatform #digitaltransformation #workplacesolutions #enterprisetech #futureofwork

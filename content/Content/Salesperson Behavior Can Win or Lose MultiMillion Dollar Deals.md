@@ -8,7 +8,7 @@ topics:
 tags:  
 - "#salestips"  
 - "#businesslessons"  
-- "#customerexperience"  
+- "#userexperience"  
 - "#brandloyalty"  
 - "#professionalsuccess"  
 - "#salesstrategy"  
@@ -45,4 +45,4 @@ Almost twenty years later, I still think about that experience– and how my bra
 
 #### Hashtags
 
-#salestips #businesslessons #customerexperience #brandloyalty #professionalsuccess #salesstrategy
+#salestips #businesslessons #userexperience #brandloyalty #professionalsuccess #salesstrategy

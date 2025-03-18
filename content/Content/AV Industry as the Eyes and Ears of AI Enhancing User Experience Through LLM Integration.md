@@ -10,8 +10,8 @@ topics:
 tags:  
 - "#audiovisual"  
 - "#artificialintelligence"  
-- "#user experience"  
-- "#integrations"  
+- "#userexperience"  
+- "#integration"  
 - "#avindustry"  
 - "#futuretech"  
 ---
@@ -61,4 +61,4 @@ If you want to know the answer to these questions, watch my talk or drop me a me
 
 #### Hashtags
 
-#audiovisual #artificialintelligence #userexperience #integrations #avindustry #futuretech
+#audiovisual #artificialintelligence #userexperience #integration #avindustry #futuretech

@@ -8,7 +8,7 @@ topics:
 - "[[Article]]"    
 tags:  
 - "#digitaltwins"  
-- "#smartbuilding"  
+- "#smart/building"  
 - "#lifecyclemanagement"  
 - "#assetmanagement"  
 - "#innovation" 
@@ -18,7 +18,7 @@ As trends mature and expectations vs realities balance- the buzz words often fad
 The biggest promise of Digital Twins is the life cycle management of an asset from design to operation.  
 We'll know it’s matured when we are talking about a life cycle management platform- not a digital twins platform.
 
-#digitaltwins #smartbuilding
+#digitaltwins #smart/building
 
 ### Media
 
@@ -37,4 +37,4 @@ We'll know it’s matured when we are talking about a life cycle management plat
 
 #### Hashtags
 
-#digitaltwins #smartbuilding #lifecyclemanagement #assetmanagement #innovation
+#digitaltwins #smart/building #lifecyclemanagement #assetmanagement #innovation

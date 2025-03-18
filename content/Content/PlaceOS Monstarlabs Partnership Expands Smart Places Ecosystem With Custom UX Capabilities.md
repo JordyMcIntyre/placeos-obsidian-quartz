@@ -6,12 +6,12 @@ type: "Video"
 topics:  
 - "[[Partner]]"   
 tags:  
-- "#PlaceOS"  
-- "#Monstarlabs"  
-- "#SmartPlaces"  
-- "#ProductDevelopment"  
-- "#UserExperience"  
-- "#CannesLaunch"  
+- "#placeos"  
+- "#monstarlabs"  
+- "#smartplaces"  
+- "#productdevelopment"  
+- "#userexperience"  
+- "#canneslaunch"  
 ---
 
 
@@ -42,4 +42,4 @@ Launched in Cannes—wish I was there!
 
 #### Hashtags
 
-#PlaceOS #Monstarlabs #SmartPlaces #ProductDevelopment #UserExperience #CannesLaunch
+#placeos #monstarlabs #smartplaces #productdevelopment #userexperience #canneslaunch

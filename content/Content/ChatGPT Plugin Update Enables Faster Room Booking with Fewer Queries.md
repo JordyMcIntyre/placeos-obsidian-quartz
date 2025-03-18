@@ -7,10 +7,10 @@ topics:
 - "[[AI]]"  
 - "[[WorkMate]]"  
 tags:  
-- "#ChatGPTplugin"  
-- "#AIupdates"  
-- "#GPT4o"  
-- "#smarterAI"  
+- "#chatgptplugin"  
+- "#aiupdate"  
+- "#gpt4o"  
+- "#smarterai"  
 - "#fastbooking"  
 ---
 Steve updated our ChatGPT plugin to action requests upfront—rather than asking too many follow-up questions.
@@ -36,4 +36,4 @@ With the new **GPT-4o** it’s super quick.
 
 #### Hashtags
 
-#ChatGPTplugin #AIupdates #GPT4o #smarterAI #fastbooking
+#chatgptplugin #aiupdate #gpt4o #smarterai #fastbooking

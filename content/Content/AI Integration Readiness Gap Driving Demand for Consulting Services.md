@@ -6,11 +6,11 @@ type: "Article"
 topics:  
 - "[[AI]]"    
 tags:  
-- "#AIintegration"  
+- "#integration"  
 - "#businessstrategy"  
 - "#digitaltransformation"  
 - "#futureofwork"  
-- "#AIconsulting"  
+- "#aiconsulting"  
 ---
 Do you think there will be a boom in consulting services to close this gap?
 
@@ -31,4 +31,4 @@ Do you think there will be a boom in consulting services to close this gap?
 [[AI]]  
 #### Hashtags
 
-#AIintegration #businessstrategy #digitaltransformation #futureofwork #AIconsulting
+#integration #businessstrategy #digitaltransformation #futureofwork #aiconsulting

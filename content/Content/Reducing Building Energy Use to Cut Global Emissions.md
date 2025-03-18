@@ -14,7 +14,7 @@ tags:
 - "#esg"  
 - "#sustainability"  
 - "#proptech"  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#energyefficiency"  
 ---
 70% of a building's emissions come from operations.
@@ -25,7 +25,7 @@ It doesn't matter how small an improvement, every bit counts. You just need to g
 
 [https://lnkd.in/gFdrM3Va](https://lnkd.in/gFdrM3Va)
 
-#realestate #esg #sustainability #proptech #sustainabledevelopment #smartbuildings
+#realestate #esg #sustainability #proptech #sustainabledevelopment #smart/buildings
 
 ### Media
 
@@ -47,4 +47,4 @@ It doesn't matter how small an improvement, every bit counts. You just need to g
 
 #### Hashtags
 
-#realestate #esg #sustainability #proptech #smartbuildings #energyefficiency
+#realestate #esg #sustainability #proptech #smart/buildings #energyefficiency

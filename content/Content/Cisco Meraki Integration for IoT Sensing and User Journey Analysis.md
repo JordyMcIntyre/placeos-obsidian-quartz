@@ -6,11 +6,11 @@ type: "Video"
 topics:  
 - "[[Podcast]]"    
 tags:  
-- "#CiscoMeraki"  
-- "#IoTSensors"  
-- "#UserJourney"  
-- "#SmartTechnology"  
-- "#BuildingAnalytics"  
+- "#ciscomeraki"  
+- "#iotsensors"  
+- "#userjourney"  
+- "#smarttechnology"  
+- "#buildinganalytics"  
 ---
 
 
@@ -37,4 +37,4 @@ For the full episode: [https://lnkd.in/g-66rqpk](https://lnkd.in/g-66rqpk)
 
 #### Hashtags
 
-#CiscoMeraki #IoTSensors #UserJourney #SmartTechnology #BuildingAnalytics
+#ciscomeraki #iotsensors #userjourney #smarttechnology #buildinganalytics

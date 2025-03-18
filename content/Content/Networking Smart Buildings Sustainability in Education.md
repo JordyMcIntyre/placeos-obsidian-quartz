@@ -10,12 +10,12 @@ topics:
 - "[[]]"  
 - "[[]]"  
 tags:  
-- "#SmartBuildings"  
-- "#HybridLearning"  
-- "#EducationInnovation"  
-- "#Sustainability"  
-- "#CiscoMeraki"  
-- "#ESGReporting"  
+- "#smart/buildings"  
+- "#hybridlearning"  
+- "#educationinnovation"  
+- "#sustainability"  
+- "#ciscomeraki"  
+- "#esgreporting"  
 ---
 **🌟 Exciting Times in Education! 🌟**
 
@@ -33,7 +33,7 @@ PlaceOS Cisco Meraki Cisco Partners Cisco Networking Academy Cisco Networking Ci
 
 Jonathan McFarlane, Jordy McIntyre, Kayleigh (Cassidy) Francoeur, Alicia Lorenzetti, Matthew D'Angelico, Joe Maestri, Anna (Ania) Esipova, Shayna Boudreau, 🔆 Ana Cano Nennig, Jacky Lo
 
-#SmartBuildings #HybridLearning #EducationInnovation #CiscoMeraki #PlaceOS #Sustainability #CiscoMeraki #PlaceOS #Schools #Universities #ESGReporting
+#smart/buildings #hybridlearning #educationinnovation #ciscomeraki #placeos #sustainability #ciscomeraki #placeos #schools #universities #esgreporting
 
 ### Media
 
@@ -52,4 +52,4 @@ Jonathan McFarlane, Jordy McIntyre, Kayleigh (Cassidy) Francoeur, Alicia Lorenze
 
 #### Hashtags
 
-#SmartBuildings #HybridLearning #EducationInnovation #Sustainability #CiscoMeraki #ESGReporting
+#smart/buildings #hybridlearning #educationinnovation #sustainability #ciscomeraki #esgreporting

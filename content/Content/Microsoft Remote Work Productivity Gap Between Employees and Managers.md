@@ -8,7 +8,7 @@ topics:
 tags:  
 - "#remoteproductivity"  
 - "#workfromhome"  
-- "#productivitygap"  
+- "#productivity"  
 - "#knowledgetasks"  
 - "#workplacestrategy"  
 - "#futureofwork"  
@@ -43,4 +43,4 @@ Tica Masuku makes some great points and shares valuable insights into how workpl
 
 #### Hashtags
 
-#remoteproductivity #workfromhome #productivitygap #knowledgetasks #workplacestrategy #futureofwork
+#remoteproductivity #workfromhome #productivity #knowledgetasks #workplacestrategy #futureofwork

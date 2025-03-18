@@ -41,7 +41,7 @@ Topics are linked within articles to help you navigate related content.
 
 Tags categorize articles by broad themes. Click on a **hashtag (#) within an article** or use the **tag cloud/filter** in the sidebar to find related topics.
 
-- Example: Clicking on `#campusmanagement` will show all articles related to campus operations.
+- Example: Clicking on `#campusengagement` will show all articles related to campus operations.
     
 
 ---
@@ -84,9 +84,9 @@ topics:
 - Automation
 - Hybrid Work
 tags:
-- #smartbuildings
+- #smart/buildings
 - #workplaceautomation
-- #campusmanagement
+- #campusengagement
 ---
 ```
 
@@ -105,7 +105,7 @@ This knowledge base is a **learning resource** for workplace and campus solution
 
 💡 **Use the search bar** → Start with keywords like **PlaceOS, Workplace, Campus, or Automation**.  
 🔗 **Follow internal links** → Click on highlighted topics to dive deeper.  
-🏷️ **Use hashtags for filtering** → Click `#smartbuildings`, `#hybridwork`, `#facilitymanagement` to refine searches.  
+🏷️ **Use hashtags for filtering** → Click `#smart/buildings`, `#hybridwork`, `#facilitymanagement` to refine searches.  
 📌 **Bookmark important articles** → Save key resources for quick access.
 
 ---

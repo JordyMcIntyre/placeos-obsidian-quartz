@@ -14,7 +14,7 @@ tags:
 - "#facilitymanagement"  
 - "#officesolutions"  
 - "#integratedsystems"  
-- "#smartworkspace"  
+- "#smartworkplace"  
 ---
 
 
@@ -65,4 +65,4 @@ With hundreds of hot-swappable integrations, WorkMate ensures you can change sys
 
 #### Hashtags
 
-#workplacemanagement #scalability #facilitymanagement #officesolutions #integratedsystems #smartworkspace
+#workplacemanagement #scalability #facilitymanagement #officesolutions #integratedsystems #smartworkplace

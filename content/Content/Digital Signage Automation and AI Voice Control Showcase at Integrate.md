@@ -8,7 +8,7 @@ topics:
 - "[[WorkMate]]"    
 tags:  
 - "#digitalsignage"  
-- "#smartworkplace"  
+- "#smart/workplace"  
 - "#automation"  
 - "#visitorexperience"  
 - "#voicecontrol"  
@@ -45,4 +45,4 @@ We’re showcasing it at Integrate this year at the AOPEN booth.
 
 #### Hashtags
 
-#digitalsignage #smartworkplace #automation #visitorexperience #voicecontrol #integration
+#digitalsignage #smart/workplace #automation #visitorexperience #voicecontrol #integration

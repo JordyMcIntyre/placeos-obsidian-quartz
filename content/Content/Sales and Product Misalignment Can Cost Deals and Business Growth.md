@@ -8,7 +8,7 @@ topics:
 tags:  
 - "#salesstrategy"  
 - "#productalignment"  
-- "#customerfeedback"  
+- "#userfeedback"  
 - "#dealclosing"  
 - "#b2bsales"  
 - "#salessuccess"  
@@ -52,4 +52,4 @@ I realise that my experience as a buyer (many years ago!) has shaped—sometimes
 
 #### Hashtags
 
-#salesstrategy #productalignment #customerfeedback #dealclosing #b2bsales #salessuccess
+#salesstrategy #productalignment #userfeedback #dealclosing #b2bsales #salessuccess

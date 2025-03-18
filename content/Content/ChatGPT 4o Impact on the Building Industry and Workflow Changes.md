@@ -8,11 +8,11 @@ topics:
 - "[[Podcast]]"  
 - "[[AI]]"    
 tags:  
-- "#ChatGPT"  
-- "#AIinConstruction"  
-- "#WorkflowAutomation"  
-- "#TechInnovation"  
-- "#LiveDiscussion"  
+- "#chatgpt"  
+- "#aiinconstruction"  
+- "#workflowautomation"  
+- "#techinnovation"  
+- "#livediscussion"  
 ---
 🚨Issues with the streaming software, we managed to record the episode, link in comments.
 
@@ -53,4 +53,4 @@ Join the discussion.
 
 #### Hashtags
 
-#ChatGPT #AIinConstruction #WorkflowAutomation #TechInnovation #LiveDiscussion
+#chatgpt #aiinconstruction #workflowautomation #techinnovation #livediscussion

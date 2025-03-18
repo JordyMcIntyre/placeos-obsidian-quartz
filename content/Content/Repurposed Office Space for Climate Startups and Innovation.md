@@ -10,7 +10,7 @@ topics:
 tags:  
 - "#coworkingspace"  
 - "#climatestartups"  
-- "#flexibleworkspace"  
+- "#flexiblespace"  
 - "#innovationhub"  
 - "#sharedresources"  
 - "#businessgrowth"  
@@ -61,4 +61,4 @@ Do you think there's potential here?
 
 #### Hashtags
 
-#coworkingspace #climatestartups #flexibleworkspace #innovationhub #sharedresources #businessgrowth
+#coworkingspace #climatestartups #flexiblespace #innovationhub #sharedresources #businessgrowth

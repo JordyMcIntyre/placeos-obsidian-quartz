@@ -9,7 +9,7 @@ tags:
 - "#llmrfp"  
 - "#techautomation"  
 - "#chatgptworkflow"  
-- "#rfpautomation"  
+- "#automation"  
 - "#aiinbusiness"  
 - "#documentationai" 
 ---
@@ -34,4 +34,4 @@ It's likely that the client will ask ChatGPT to summarize my response, which mea
 
 #### Hashtags
 
-#llmrfp #techautomation #chatgptworkflow #rfpautomation #aiinbusiness #documentationai
+#llmrfp #techautomation #chatgptworkflow #automation #aiinbusiness #documentationai

@@ -8,12 +8,12 @@ topics:
 - "[[AV]]"  
 - "[[Room Booking]]"   
 tags:  
-- "#AIroomcontrol"  
-- "#smartmeetings"  
+- "#ai/control"  
+- "#smart/meeting"  
 - "#officetech"  
-- "#workspaceinnovation"  
-- "#IntegrateExpo"  
-- "#AOPEN"  
+- "#workspace/innovation"  
+- "#integrateexpo"  
+- "#aopen"  
 ---
 It's what Siri was meant to be, but for meeting rooms.
 
@@ -43,4 +43,4 @@ This is just the beginning, more coming soon 👀
 
 #### Hashtags
 
-#AIroomcontrol #smartmeetings #officetech #workspaceinnovation #IntegrateExpo #AOPEN
+#ai/control #smart/meeting #officetech #workspace/innovation #integrateexpo #aopen

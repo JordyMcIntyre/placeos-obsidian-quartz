@@ -7,7 +7,7 @@ topics:
 - "[[Platform]]"   
 - "[[UX]]"
 tags:  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#userexperience"  
 - "#buildingtechnology"  
 - "#residentengagement"  
@@ -39,4 +39,4 @@ As always, the focus should be on UX across the entire building not just inside 
 
 #### Hashtags
 
-#smartbuildings #userexperience #buildingtechnology #residentengagement #connectedliving
+#smart/buildings #userexperience #buildingtechnology #residentengagement #connectedliving

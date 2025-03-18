@@ -13,8 +13,8 @@ tags:
 - "#hybridwork"  
 - "#workplaceefficiency"  
 - "#costreduction"  
-- "#smartoffices"  
-- "#dynamicworkspaces"  
+- "#smart/office"  
+- "#dynamicworkplace"  
 ---
 
 
@@ -53,4 +53,4 @@ It's a simple recipe that we've implemented a lot, and it works.
 
 #### Hashtags
 
-#hybridwork #workplaceefficiency #costreduction #smartoffices #dynamicworkspaces
+#hybridwork #workplaceefficiency #costreduction #smart/office #dynamicworkplace

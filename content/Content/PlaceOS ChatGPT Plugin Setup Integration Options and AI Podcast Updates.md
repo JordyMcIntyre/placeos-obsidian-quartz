@@ -6,12 +6,12 @@ type: "Article"
 topics:  
 - "[[Platform]]"   
 tags:  
-- "#PlaceOS"  
-- "#ChatGPTintegration"  
-- "#AIAutomation"  
-- "#TechUpdates"  
-- "#WorkplaceAI"  
-- "#SmartBuildings"
+- "#placeos"  
+- "#chatgptintegration"  
+- "#ai/automation"  
+- "#techupdates"  
+- "#workplace"  
+- "#smart/buildings"
 ---
 We updated our technical docs page to detail setting up any PlaceOS instance with our ChatGPT plugin. (native Copilot directly in MS Windows is coming soon).
 
@@ -41,4 +41,4 @@ It’s currently focused on room and desk booking (see my last posts for example
 
 #### Hashtags
 
-#PlaceOS #ChatGPTintegration #AIAutomation #TechUpdates #WorkplaceAI #SmartBuildings
+#placeos #chatgptintegration #ai/automation #techupdates #workplace #smart/buildings

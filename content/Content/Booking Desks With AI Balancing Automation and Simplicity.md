@@ -9,8 +9,8 @@ topics:
 tags:  
 - "#deskbooking"  
 - "#artificialintelligence"  
-- "#workplaceinnovation"  
-- "#smartoffices"  
+- "#workspaceinnovation"  
+- "#smart/office"  
 - "#futureofwork"  
 ---
 
@@ -55,4 +55,4 @@ It then performs the task of booking a desk and the conditional logic programmin
 
 #### Hashtags
 
-#deskbooking #artificialintelligence #workplaceinnovation #smartoffices #futureofwork
+#deskbooking #artificialintelligence #workspaceinnovation #smart/office #futureofwork

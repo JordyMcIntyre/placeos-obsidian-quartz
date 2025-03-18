@@ -6,11 +6,11 @@ type: "Video"
 topics:  
 - "[[AI]]"   
 tags:  
-- "#AIBuildings"  
-- "#SmartBuildings"  
-- "#FutureOfWork"  
-- "#BuildingTech"  
-- "#AIInnovation"
+- "#aibuildings"  
+- "#smart/buildings"  
+- "#futureofwork"  
+- "#buildingtech"  
+- "#innovation"
 ---  
 
 **AI is in the Building.**
@@ -41,4 +41,4 @@ Which is exactly what I will be discussing with James McHale on his next live st
 
 #### Hashtags
 
-#AIBuildings #SmartBuildings #FutureOfWork #BuildingTech #AIInnovation
+#aibuildings #smart/buildings #futureofwork #buildingtech #innovation

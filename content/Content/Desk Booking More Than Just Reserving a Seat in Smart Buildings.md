@@ -7,7 +7,7 @@ topics:
 - "[[Desk Booking]]"   
 tags:  
 - "#deskbooking"  
-- "#smartbuilding"  
+- "#smart/building"  
 - "#proptech"  
 - "#workplaceexperience"  
 - "#hybridwork"  
@@ -15,7 +15,7 @@ tags:
 ---
 Desk booking sounds pretty straight forward. You book a desk, turn up, and that's you for the day. But there's a lot more to it than that.
 
-#deskbooking #smartbuilding #proptech
+#deskbooking #smart/building #proptech
 
 ### Media
 
@@ -33,4 +33,4 @@ Desk booking sounds pretty straight forward. You book a desk, turn up, and that'
 
 #### Hashtags
 
-#deskbooking #smartbuilding #proptech #workplaceexperience #hybridwork #officefuture
+#deskbooking #smart/building #proptech #workplaceexperience #hybridwork #officefuture

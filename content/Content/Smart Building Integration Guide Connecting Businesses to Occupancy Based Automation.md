@@ -7,7 +7,7 @@ topics:
 - "[[Smart Building]]"  
 - "[[Event]]"  
 tags:  
-- "#smartbuilding"  
+- "#smart/building"  
 - "#automation"  
 - "#integration"  
 - "#energyefficiency"  
@@ -60,4 +60,4 @@ Expect a straightforward demonstration on how to set up a smart building solutio
 
 #### Hashtags
 
-#smartbuilding #automation #integration #energyefficiency #occupancydata #buildingtechnology
+#smart/building #automation #integration #energyefficiency #occupancydata #buildingtechnology

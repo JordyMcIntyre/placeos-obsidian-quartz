@@ -8,7 +8,7 @@ topics:
 - "[[AI]]"  
 - "[[AV]]"  
 tags:  
-- "#smartspaces"  
+- "#smartplaces"  
 - "#automatedworkplace"  
 - "#seamlessintegration"  
 - "#userexperience"  
@@ -51,4 +51,4 @@ So I'm curious, what's the most useless interface you've used?
 
 #### Hashtags
 
-#smartspaces #automatedworkplace #seamlessintegration #userexperience #buildingtech #futureofwork
+#smartplaces #automatedworkplace #seamlessintegration #userexperience #buildingtech #futureofwork

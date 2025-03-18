@@ -10,9 +10,9 @@ topics:
 - "[[AV]]"  
 - "[[Meeting Rooms]]"  
 tags:  
-- "#meetingrooms"  
+- "#meetingroom"  
 - "#digitaltransformation"  
-- "#simplifiedworkflow"  
+- "#simpleworkflow"  
 - "#smartefficiency"  
 - "#seamlessintegration"  
 ---
@@ -47,4 +47,4 @@ In partnership with AOPEN APAC we'll be showcasing our latest meeting room and d
 
 #### Hashtags
 
-#meetingrooms #digitaltransformation #simplifiedworkflow #smartefficiency #seamlessintegration
+#meetingroom #digitaltransformation #simpleworkflow #smartefficiency #seamlessintegration

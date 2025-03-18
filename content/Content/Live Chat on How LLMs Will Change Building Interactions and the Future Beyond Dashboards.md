@@ -7,13 +7,13 @@ topics:
 - "[[AI]]"  
 - "[[UX]]"   
 tags:  
-- "#LLMtechnology"  
-- "#SmartBuildings"  
-- "#FutureUX"  
-- "#ConversationalUI"  
-- "#AIintegration"  
+- "#llmtechnology"  
+- "#smart/buildings"  
+- "#futureux"  
+- "#conversationalui"  
+- "#integration"  
 ---
-Join me & Jonathan McFarlane for a live chat about how #LLMs will change the way we interact with our buildings.
+Join me & Jonathan McFarlane for a live chat about how #llms will change the way we interact with our buildings.
 
 **🚨 Spoiler Alert 🚨** Dashboards are not the future of building system UIs! 😃  
 Don't think "point & click" think "describe & done"! 👍
@@ -35,4 +35,4 @@ Don't think "point & click" think "describe & done"! 👍
 
 #### Hashtags
 
-#LLMtechnology #SmartBuildings #FutureUX #ConversationalUI #AIintegration
+#llmtechnology #smart/buildings #futureux #conversationalui #integration

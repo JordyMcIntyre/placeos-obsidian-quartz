@@ -10,7 +10,7 @@ tags:
 - "#workplace"  
 - "#employeeexperience"  
 - "#roombooking"  
-- "#smartworkspace"  
+- "#smartworkplace"  
 - "#officetools"  
 ---
 
@@ -40,4 +40,4 @@ And we know how to figure out what kind of room booking solution you need.
 
 #### Hashtags
 
-#workplace #employeeexperience #roombooking #smartworkspace #officetools
+#workplace #employeeexperience #roombooking #smartworkplace #officetools

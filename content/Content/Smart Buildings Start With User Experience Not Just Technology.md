@@ -7,7 +7,7 @@ topics:
 - "[[UX]]"  
 tags:  
 - "#userexperience"  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#technology"  
 - "#workplace"  
 - "#innovation"  
@@ -30,7 +30,7 @@ There's even times where the technology is already in your building...
   
 You just didn't know you could use it that way.
 
-#iot #smartbuildings #workplace #userexperience
+#iot #smart/buildings #workplace #userexperience
 
 ### Media
 
@@ -48,4 +48,4 @@ You just didn't know you could use it that way.
 
 #### Hashtags
 
-#userexperience #smartbuildings #technology #workplace #innovation
+#userexperience #smart/buildings #technology #workplace #innovation

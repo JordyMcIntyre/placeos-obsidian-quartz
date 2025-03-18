@@ -10,7 +10,7 @@ topics:
 - "[[]]"  
 - "[[]]"  
 tags:  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#projecttimelines"  
 - "#discoveryphase"  
 - "#scopingprocess"  
@@ -45,4 +45,4 @@ Measure twice, cut once.
 
 #### Hashtags
 
-#smartbuildings #projecttimelines #discoveryphase #scopingprocess #measuretwice #cutonce
+#smart/buildings #projecttimelines #discoveryphase #scopingprocess #measuretwice #cutonce

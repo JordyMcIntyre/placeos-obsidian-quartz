@@ -6,11 +6,11 @@ type: "Text"
 topics:  
 - "[[Event]]"  
 tags:  
-- "#CanadaTrip"  
-- "#MeetMe"  
-- "#AITech"  
-- "#InnovationShowcase"  
-- "#TechDemo"  
+- "#canadatrip"  
+- "#meetme"  
+- "#aitech"  
+- "#innovationShowcase"  
+- "#techdemo"  
 ---
 I will be in Canada all of next week.
 
@@ -34,4 +34,4 @@ I'll be showcasing some of our new AI features for the first time in person.
 
 #### Hashtags
 
-#CanadaTrip #MeetMe #AITech #InnovationShowcase #TechDemo
+#canadatrip #meetme #aitech #innovationShowcase #techdemo

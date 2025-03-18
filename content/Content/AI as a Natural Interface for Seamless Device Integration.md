@@ -7,12 +7,12 @@ topics:
 - "[[AI]]"  
 - "[[AV]]"    
 tags:  
-- "#AIinterface"  
-- "#SmartTechnology"  
-- "#FutureWorkspaces"  
-- "#NaturalInteraction"  
-- "#SeamlessIntegration"  
-- "#AIAutomation"  
+- "#ai/interface"  
+- "#smarttechnology"  
+- "#futureworkspace"  
+- "#naturalinteraction"  
+- "#seamlessintegration"  
+- "#ai/automation"  
 ---
 If there's one thing I'd like people to understand about AI.
 
@@ -84,4 +84,4 @@ We're moving on from that to say everything's connected and we can action any fu
 
 #### Hashtags
 
-#AIinterface #SmartTechnology #FutureWorkspaces #NaturalInteraction #SeamlessIntegration #AIAutomation
+#ai/interface #smarttechnology #futureworkspace #naturalinteraction #seamlessintegration #ai/automation

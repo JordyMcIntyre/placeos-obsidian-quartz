@@ -10,8 +10,8 @@ topics:
 - "[[]]"  
 - "[[]]"  
 tags:  
-- "#AIroomcontrol"  
-- "#smartspaces"  
+- "#ai/control"  
+- "#smartplaces"  
 - "#voicecontrol"  
 - "#buildingautomation"  
 - "#touchlesstech"  
@@ -51,4 +51,4 @@ You can see the demo in person at integrate alongside our partners AOPEN APAC.
 
 #### Hashtags
 
-#AIroomcontrol #smartspaces #voicecontrol #buildingautomation #touchlesstech #integrateexpo
+#ai/control #smartplaces #voicecontrol #buildingautomation #touchlesstech #integrateexpo

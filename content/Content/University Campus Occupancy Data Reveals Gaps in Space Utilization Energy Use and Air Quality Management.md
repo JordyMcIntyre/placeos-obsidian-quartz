@@ -11,10 +11,10 @@ topics:
 - "[[Automation]]"  
 tags:  
 - "#campusoccupancy"  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#energyoptimization"  
 - "#indoorairquality"  
-- "#dataanalytics"  
+- "#dataanalysis"  
 - "#universities"  
 ---
 Most universities rely on schedules to determine space usage. But scheduled occupancy ≠ real-time occupancy. And here’s the proof.
@@ -62,4 +62,4 @@ How is your campus using real-time data?
 
 #### Hashtags
 
-#campusoccupancy #smartbuildings #energyoptimization #indoorairquality #dataanalytics #universities
+#campusoccupancy #smart/buildings #energyoptimization #indoorairquality #dataanalysis #universities

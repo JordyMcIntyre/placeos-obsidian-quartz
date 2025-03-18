@@ -9,7 +9,7 @@ topics:
 tags:  
 - "#workflowautomation"  
 - "#workplaceefficiency"  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#automationtechnology"  
 - "#integratedsystems"  
 - "#energyoptimization"  
@@ -61,4 +61,4 @@ Whereas platforms, it's more about the integration and then the apps sit on top 
 
 #### Hashtags
 
-#workflowautomation #workplaceefficiency #smartbuildings #automationtechnology #integratedsystems #energyoptimization
+#workflowautomation #workplaceefficiency #smart/buildings #automationtechnology #integratedsystems #energyoptimization

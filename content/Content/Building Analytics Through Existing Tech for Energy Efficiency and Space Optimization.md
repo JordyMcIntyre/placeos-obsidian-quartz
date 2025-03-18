@@ -9,7 +9,7 @@ topics:
 - "[[Commercial Real Estate]]"  
 - "[[Analytics]]"   
 tags:  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#dataintegration"  
 - "#energyoptimization"  
 - "#spaceutilization"  
@@ -59,4 +59,4 @@ This kind of approach increases the value of built assets.
 
 #### Hashtags
 
-#smartbuildings #dataintegration #energyoptimization #spaceutilization #sustainabletech #buildinganalytics
+#smart/buildings #dataintegration #energyoptimization #spaceutilization #sustainabletech #buildinganalytics

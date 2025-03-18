@@ -6,11 +6,11 @@ type: "Video"
 topics:  
 - "[[Podcast]]"   
 tags:  
-- "#ChatGPT"  
-- "#PodcastLive"  
-- "#AIUpdate"  
-- "#TechDiscussion"  
-- "#FutureTalk"  
+- "#chatgpt"  
+- "#podcastlive"  
+- "#aiupdate"  
+- "#techdiscussion"  
+- "#futuretalk"  
 ---
 
 
@@ -37,4 +37,4 @@ So let's discuss.
 
 #### Hashtags
 
-#ChatGPT #PodcastLive #AIUpdate #TechDiscussion #FutureTalk
+#chatgpt #podcastlive #aiupdate #techdiscussion #futuretalk

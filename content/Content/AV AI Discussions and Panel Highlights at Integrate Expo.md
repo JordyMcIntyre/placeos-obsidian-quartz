@@ -9,11 +9,11 @@ topics:
 - "[[AI]]"  
 - "[[Event]]"   
 tags:  
-- "#IntegrateExpo"  
-- "#AVAi"  
-- "#AutomationDebate"  
-- "#MultimodalAI"  
-- "#FutureInterfaces"  
+- "#integrateexpo"  
+- "#avai"  
+- "#automationdebate"  
+- "#multimodalai"  
+- "#futureinterfaces"  
 ---
 **Day 1 down at Integrate Expo**
 
@@ -46,4 +46,4 @@ A discussion of the market opportunities and revolutionary interfaces that are n
 [[Event]] 
 #### Hashtags
 
-#IntegrateExpo #AVAi #AutomationDebate #MultimodalAI #FutureInterfaces
+#integrateexpo #avai #automationdebate #multimodalai #futureinterfaces

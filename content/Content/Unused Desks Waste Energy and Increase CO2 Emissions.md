@@ -9,7 +9,7 @@ topics:
 - "[[Workplace Management]]"  
 tags:  
 - "#occupancymanagement"  
-- "#smartoffices"  
+- "#smart/office"  
 - "#energyreduction"  
 - "#sustainableworkspaces"  
 - "#workplaceefficiency"  
@@ -51,4 +51,4 @@ All of this can be done dynamically, by integrating into occupancy data and then
 
 #### Hashtags
 
-#occupancymanagement #smartoffices #energyreduction #sustainableworkspaces #workplaceefficiency
+#occupancymanagement #smart/office #energyreduction #sustainableworkspaces #workplaceefficiency

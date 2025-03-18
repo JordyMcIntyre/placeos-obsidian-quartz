@@ -9,8 +9,8 @@ topics:
 - "[[Computer Vision]]"    
 tags:  
 - "#timingiseverything"  
-- "#smartbuilding"  
-- "#avtechnology"  
+- "#smart/building"  
+- "#technology"  
 - "#entrepreneurmindset"  
 - "#innovation"  
 ---
@@ -43,4 +43,4 @@ Stay tuned.
 
 #### Hashtags
 
-#timingiseverything #smartbuilding #avtechnology #entrepreneurmindset #innovation
+#timingiseverything #smart/building #technology #entrepreneurmindset #innovation

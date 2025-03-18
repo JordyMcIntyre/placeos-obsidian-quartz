@@ -7,12 +7,12 @@ topics:
 - "[[Event]]"  
 - "[[Partner]]"   
 tags:  
-- "#CiscoLive"  
-- "#Melbourne"  
-- "#Networking"  
-- "#TechEvents"  
-- "#EventRecap"  
-- "#BetterCoffee"
+- "#ciscolive"  
+- "#melbourne"  
+- "#networking"  
+- "#tech/event"  
+- "#eventrecap"  
+- "#bettercoffee"
 ---  
 What a great Cisco Live! It's pretty much a wrap for me- but I'm still here for the rest of the day if you want to reach out.
 
@@ -37,4 +37,4 @@ Maybe I'm biased, but I enjoyed this Melbourne version over Las Vegas. Probably 
 
 #### Hashtags
 
-#CiscoLive #Melbourne #Networking #TechEvents #EventRecap #BetterCoffee
+#ciscolive #melbourne #networking #tech/event #eventrecap #bettercoffee

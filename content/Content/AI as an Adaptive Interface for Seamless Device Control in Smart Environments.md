@@ -8,7 +8,7 @@ topics:
 - "[[Interface]]"  
 - "[[Meeting Rooms]]"    
 tags:  
-- "#aiintegration"  
+- "#integration"  
 - "#smartenvironments"  
 - "#userexperience"  
 - "#naturallanguage"  
@@ -90,4 +90,4 @@ We're moving on from that to say everything's connected and we can action any fu
 
 #### Hashtags
 
-#aiintegration #smartenvironments #userexperience #naturallanguage #connectedtech #futureinterfaces
+#integration #smartenvironments #userexperience #naturallanguage #connectedtech #futureinterfaces

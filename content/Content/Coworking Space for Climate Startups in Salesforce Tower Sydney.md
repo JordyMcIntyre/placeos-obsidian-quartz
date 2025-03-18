@@ -9,7 +9,7 @@ topics:
 tags:  
 - "#coworkingspace"  
 - "#climatestartups"  
-- "#flexibleoffices"  
+- "#flexibleoffice"  
 - "#sharedinnovation"  
 - "#commercialrealestate"  
 - "#startupcommunity"
@@ -57,4 +57,4 @@ Do you think there's potential here?
 
 #### Hashtags
 
-#coworkingspace #climatestartups #flexibleoffices #sharedinnovation #commercialrealestate #startupcommunity
+#coworkingspace #climatestartups #flexibleoffice #sharedinnovation #commercialrealestate #startupcommunity

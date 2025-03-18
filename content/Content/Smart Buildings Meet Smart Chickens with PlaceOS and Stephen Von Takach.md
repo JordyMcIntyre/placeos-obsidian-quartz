@@ -7,7 +7,7 @@ topics:
 - "[[AI]]"  
 - "[[Podcast]]"   
 tags:  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#chickencoop"  
 - "#predatorprotection"  
 - "#placeos"  
@@ -36,4 +36,4 @@ And it's good that he does because he's using PlaceOS to save his chickens from 
 
 #### Hashtags
 
-#smartbuildings #chickencoop #predatorprotection #placeos #automation
+#smart/buildings #chickencoop #predatorprotection #placeos #automation

@@ -12,7 +12,7 @@ tags:
 - "#retrofitting"  
 - "#mixeduse"  
 - "#urbantransformation"  
-- "#workspaceinnovation" 
+- "#workspace/innovation" 
 ---
 
 It used to be the case, when employment went up, so did the demand for office space.
@@ -50,4 +50,4 @@ There's a lot we can learn from how creative they've been with retrofitting the 
 
 #### Hashtags
 
-#officespace #realestatefuture #retrofitting #mixeduse #urbantransformation #workspaceinnovation
+#officespace #realestatefuture #retrofitting #mixeduse #urbantransformation #workspace/innovation

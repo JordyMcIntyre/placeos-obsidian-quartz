@@ -7,12 +7,12 @@ topics:
 - "[[Platform]]"  
 - "[[Commercial Real Estate]]"  
 tags:  
-- "#SaaSbusiness"  
-- "#PropTech"  
-- "#RevenueStreams"  
-- "#VentureCapital"  
-- "#CustomerPurchasing"  
-- "#CapEx"  
+- "#saasbusiness"  
+- "#proptech"  
+- "#revenuestreams"  
+- "#venturecapital"  
+- "#customerpurchasing"  
+- "#capex"  
 ---
 SaaS is a great business model when it stacks up. However, the challenge is deferring and collecting revenue over time, rather than getting it upfront. And the risk is customers can unsubscribe at any time.
 
@@ -39,4 +39,4 @@ For a PropTech business, I think a healthy mix of business models and revenue st
 
 #### Hashtags
 
-#SaaSbusiness #PropTech #RevenueStreams #VentureCapital #CustomerPurchasing #CapEx
+#saasbusiness #proptech #revenuestreams #venturecapital #customerpurchasing #capex

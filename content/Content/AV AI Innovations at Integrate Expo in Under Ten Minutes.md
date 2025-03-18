@@ -8,11 +8,11 @@ topics:
 - "[[AI]]"  
 - "[[AV]]"   
 tags:  
-- "#IntegrateExpo"  
-- "#AVInnovation"  
-- "#FutureofAI"  
-- "#TechEvolution"  
-- "#SmartSolutions"  
+- "#integrateexpo"  
+- "#innovation"  
+- "#futureofai"  
+- "#techevolution"  
+- "#smartsolutions"  
 ---
 
 Everything we're doing at Integrate Expo in less than 10 minutes.
@@ -39,4 +39,4 @@ Everything we're doing at Integrate Expo in less than 10 minutes.
 
 #### Hashtags
 
-#IntegrateExpo #AVInnovation #FutureofAI #TechEvolution #SmartSolutions
+#integrateexpo #innovation #futureofai #techevolution #smartsolutions

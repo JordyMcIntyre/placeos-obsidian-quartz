@@ -7,7 +7,7 @@ topics:
 - "[[AI]]"  
 - "[[AV]]"   
 tags:  
-- "#audiovisualai"  
+- "#audiovisual"  
 - "#futureinterfaces"  
 - "#intelligentdesign"  
 - "#adaptiveenvironments"  
@@ -36,4 +36,4 @@ Let’s look at a scene and break down the tech we could use to make it a realit
 
 #### Hashtags
 
-#audiovisualai #futureinterfaces #intelligentdesign #adaptiveenvironments #techinmovies
+#audiovisual #futureinterfaces #intelligentdesign #adaptiveenvironments #techinmovies

@@ -11,7 +11,7 @@ tags:
 - "#authentication"  
 - "#visitoraccess"  
 - "#userexperience"  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#seamlessentry"  
 ---
 By integrating with multiple authentication sources- we can tailor the experience in the building to all stakeholders. This allows us to re-think the visitor experience and move beyond those clunky check-in kiosks.
@@ -36,4 +36,4 @@ William Le explains the authentication process behind this: [https://lnkd.in/gCu
 
 #### Hashtags
 
-#authentication #visitoraccess #userexperience #smartbuildings #seamlessentry
+#authentication #visitoraccess #userexperience #smart/buildings #seamlessentry

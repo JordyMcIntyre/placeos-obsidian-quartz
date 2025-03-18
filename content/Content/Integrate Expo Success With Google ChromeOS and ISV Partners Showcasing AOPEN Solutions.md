@@ -9,12 +9,12 @@ topics:
 - "[[Wayfinding]]"  
 - "[[Digital Signage]]"  
 tags:  
-- "#IntegrateExpo"  
-- "#DigitalSignage"  
-- "#ChromeOS"  
-- "#EnterpriseSolutions"  
-- "#TechInnovation"  
-- "#AOPEN"  
+- "#integrateexpo"  
+- "#digitalsignage"  
+- "#chromeos"  
+- "#enterprisesolutions"  
+- "#techinnovation"  
+- "#aopen"  
 ---
 IT'S A WRAP! 🎉
 
@@ -46,4 +46,4 @@ And shoutout to our amazing ISV partners — **PlaceOS, meldCX, MakeUpMyRoom, Mo
 
 #### Hashtags
 
-#IntegrateExpo #DigitalSignage #ChromeOS #EnterpriseSolutions #TechInnovation #AOPEN
+#integrateexpo #digitalsignage #chromeos #enterprisesolutions #techinnovation #aopen

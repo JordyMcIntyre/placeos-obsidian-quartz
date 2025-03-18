@@ -8,7 +8,7 @@ topics:
 - "[[AI]]"  
 tags:  
 - "#audiovisual"  
-- "#buildingAI"  
+- "#buildingai"  
 - "#smarttechnology"  
 - "#humanmachine"  
 - "#futureinterfaces"  
@@ -34,4 +34,4 @@ Are you in AV? How are you going to exploit this superpower?
 
 #### Hashtags
 
-#audiovisual #buildingAI #smarttechnology #humanmachine #futureinterfaces
+#audiovisual #buildingai #smarttechnology #humanmachine #futureinterfaces

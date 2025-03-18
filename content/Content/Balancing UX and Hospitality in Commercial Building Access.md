@@ -11,10 +11,10 @@ topics:
 tags:  
 - "#userexperience"  
 - "#hospitalitytech"  
-- "#smartbuildings"  
-- "#AIintegration"  
+- "#smart/buildings"  
+- "#integration"  
 - "#workplacetech"  
-- "#AVsolutions"  
+- "#avsolutions"  
 ---
 
 
@@ -42,7 +42,7 @@ If you haven't got tickets yet, they've given me a code **INT20OFFSPEAK**
 
 I hope to see many familiar faces for what will be an interesting discussion.
 
-#INT24 #AVprofs
+#int24 #avprofs
 
 [https://lnkd.in/gjhV7yak](https://lnkd.in/gjhV7yak)
 
@@ -65,4 +65,4 @@ I hope to see many familiar faces for what will be an interesting discussion.
 
 #### Hashtags
 
-#userexperience #hospitalitytech #smartbuildings #AIintegration #workplacetech #AVsolutions
+#userexperience #hospitalitytech #smart/buildings #integration #workplacetech #avsolutions

@@ -12,7 +12,7 @@ tags:
 - "#officecosts"  
 - "#employeeretention"  
 - "#futureofwork"  
-- "#realestateROI"  
+- "#realestate"  
 - "#workplacepolicy" 
 ---
 
@@ -81,4 +81,4 @@ That way you can maintain a flexible work policy without having a dull vibe wher
 [[RTO]]  
 #### Hashtags
 
-#returntowork #officecosts #employeeretention #futureofwork #realestateROI #workplacepolicy
+#returntowork #officecosts #employeeretention #futureofwork #realestate #workplacepolicy

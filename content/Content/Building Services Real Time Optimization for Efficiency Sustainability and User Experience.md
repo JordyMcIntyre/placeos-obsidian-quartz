@@ -8,7 +8,7 @@ topics:
 - "[[Automation]]"  
 - "[[UX]]"   
 tags:  
-- "#buildingenvironment"  
+- "#builtenvironment"  
 - "#realtimeefficiency"  
 - "#smartsustainability"  
 - "#userexperience"  
@@ -37,4 +37,4 @@ We can create an environment that reacts in real-time improving efficiencies, su
 [[UX]]  
 #### Hashtags
 
-#buildingenvironment #realtimeefficiency #smartsustainability #userexperience #dynamicdata #improvingefficiency
+#builtenvironment #realtimeefficiency #smartsustainability #userexperience #dynamicdata #improvingefficiency

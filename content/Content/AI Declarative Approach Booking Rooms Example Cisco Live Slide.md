@@ -7,7 +7,7 @@ topics:
 - "[[AI]]"  
 - "[[Room Booking]]"    
 tags:  
-- "#aitechnology"  
+- "#technology"  
 - "#chatgptplugin"  
 - "#declarativeai"  
 - "#workplaceefficiency"  
@@ -36,4 +36,4 @@ This prompt reminds me of the slide I used in an AI talk I gave at Cisco Live la
 
 #### Hashtags
 
-#aitechnology #chatgptplugin #declarativeai #workplaceefficiency #ciscotalks
+#technology #chatgptplugin #declarativeai #workplaceefficiency #ciscotalks

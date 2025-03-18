@@ -8,7 +8,7 @@ topics:
 - "[[Campus]]"  
 - "[[Occupancy]]"  
 tags:  
-- "#smartworkplace"  
+- "#smart/workplace"  
 - "#emergingtrends"  
 - "#occupancysolutions"  
 - "#universitytech"  
@@ -36,4 +36,4 @@ This is our second edition where we talk emerging trends on university campuses,
 [[Occupancy]]  
 #### Hashtags
 
-#smartworkplace #emergingtrends #occupancysolutions #universitytech #objectdetection #placeos
+#smart/workplace #emergingtrends #occupancysolutions #universitytech #objectdetection #placeos

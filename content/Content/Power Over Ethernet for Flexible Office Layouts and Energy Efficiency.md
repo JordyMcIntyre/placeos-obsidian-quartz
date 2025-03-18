@@ -11,8 +11,8 @@ topics:
 tags:  
 - "#poweroverethernet"  
 - "#officedesign"  
-- "#workspaceflexibility"  
-- "#smartoffice"  
+- "#workplaceflexibility"  
+- "#smart/office"  
 - "#officetech"  
 - "#futureofwork"
 ---
@@ -59,4 +59,4 @@ But if you can dedicate even a portion of your office to be truly flexible, you'
 
 #### Hashtags
 
-#poweroverethernet #officedesign #workspaceflexibility #smartoffice #officetech #futureofwork
+#poweroverethernet #officedesign #workplaceflexibility #smart/office #officetech #futureofwork

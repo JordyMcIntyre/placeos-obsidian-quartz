@@ -6,7 +6,7 @@ type: "Article"
 topics:  
 - "[[Partner]]"  
 tags:  
-- "#XpertiseNow"  
+- "#xpertisenow"  
 - "#businessdesign"  
 - "#businesstransformation"  
 - "#futureofwork"  
@@ -23,7 +23,7 @@ As part of the XN community, Ciaran (working with Nicola Mansfield from TheDesig
 
 Read more about it in the article below.
 
-#XpertiseNow #XpertiseNowANZ #businessdesign #businessdevelopment #businesstransformation #intelligentassets #realestate
+#xpertisenow #xpertisenow #businessdesign #businessdevelopment #businesstransformation #intelligentassets #realestate
 
 ### Media
 
@@ -41,4 +41,4 @@ Read more about it in the article below.
 
 #### Hashtags
 
-#XpertiseNow #businessdesign #businesstransformation #futureofwork #realestate #intelligentassets
+#xpertisenow #businessdesign #businesstransformation #futureofwork #realestate #intelligentassets

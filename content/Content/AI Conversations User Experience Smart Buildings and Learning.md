@@ -8,7 +8,7 @@ topics:
 - "[[Podcast]]"    
 tags:  
 - "#artificialintelligence"  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#userexperience"  
 - "#conversationdesign"  
 - "#automation"  
@@ -50,4 +50,4 @@ Anyways, that's enough from me- keep an eye out for the video once it's released
 
 #### Hashtags
 
-#artificialintelligence #smartbuildings #userexperience #conversationdesign #automation #futuretech
+#artificialintelligence #smart/buildings #userexperience #conversationdesign #automation #futuretech

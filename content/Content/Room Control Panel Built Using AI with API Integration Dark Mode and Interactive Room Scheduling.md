@@ -9,7 +9,7 @@ topics:
 - "[[Meeting Rooms]]"
 tags:  
 - "#roomcontrol"  
-- "#aiinterface"  
+- "#ai/interface"  
 - "#responsiveui"  
 - "#automationtools"  
 - "#meetingsolutions"  
@@ -45,4 +45,4 @@ tags:
 
 #### Hashtags
 
-#roomcontrol #aiinterface #responsiveui #automationtools #meetingsolutions #techinnovation
+#roomcontrol #ai/interface #responsiveui #automationtools #meetingsolutions #techinnovation

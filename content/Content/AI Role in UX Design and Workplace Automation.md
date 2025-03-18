@@ -7,12 +7,12 @@ topics:
 - "[[AI]]"  
 - "[[UX]]"   
 tags:  
-- "#AIUX"  
-- "#HumanInteraction"  
-- "#LLMtechnology"  
-- "#UserExperience"  
-- "#FutureOfAI"  
-- "#PlaceOS"  
+- "#aiux"  
+- "#humaninteraction"  
+- "#llmtechnology"  
+- "#userexperience"  
+- "#futureofai"  
+- "#placeos"  
 ---
 
 AI isn't good at everything.
@@ -54,4 +54,4 @@ Enjoy the podcast on your favorite platforms.
 
 #### Hashtags
 
-#AIUX #HumanInteraction #LLMtechnology #UserExperience #FutureOfAI #PlaceOS
+#aiux #humaninteraction #llmtechnology #userexperience #futureofai #placeos

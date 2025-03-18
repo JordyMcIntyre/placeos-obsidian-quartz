@@ -8,12 +8,12 @@ topics:
 - "[[AI]]"  
 - "[[AV]]"   
 tags:  
-- "#LivePodcast"  
-- "#SmartBuildings"  
-- "#MultimodalLLM"  
-- "#ArtificialIntelligence"  
-- "#ComputerVision"  
-- "#AppleFerret"  
+- "#livepodcast"  
+- "#smart/buildings"  
+- "#multimodalllm"  
+- "#artificialintelligence"  
+- "#computervision"  
+- "#appleferret"  
 ---
 Our first live podcast.
 
@@ -50,4 +50,4 @@ And more.
 
 #### Hashtags
 
-#LivePodcast #SmartBuildings #MultimodalLLM #ArtificialIntelligence #ComputerVision #AppleFerret
+#livepodcast #smart/buildings #multimodalllm #artificialintelligence #computervision #appleferret

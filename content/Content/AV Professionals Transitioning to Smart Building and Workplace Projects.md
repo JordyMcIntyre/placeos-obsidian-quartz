@@ -7,8 +7,8 @@ topics:
 - "[[AV]]"  
 - "[[Workplace]]"  
 tags:  
-- "#smartbuilding"  
-- "#smartworkplace"  
+- "#smart/building"  
+- "#smart/workplace"  
 - "#audiovisual"  
 - "#technologytrends"  
 - "#buildingautomation"
@@ -37,4 +37,4 @@ If you’re one of them, please send me a DM so I can include you as an example 
 
 #### Hashtags
 
-#smartbuilding #smartworkplace #audiovisual #technologytrends #buildingautomation
+#smart/building #smart/workplace #audiovisual #technologytrends #buildingautomation

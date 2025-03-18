@@ -13,7 +13,7 @@ tags:
 - "#campusdata"  
 - "#spaceutilization"  
 - "#energyefficiency"  
-- "#smartbuildings"  
+- "#smart/buildings"  
 - "#highereducation"  
 - "#realtimeinsights"  
 ---
@@ -60,4 +60,4 @@ How is your campus using real-time data?
 
 #### Hashtags
 
-#campusdata #spaceutilization #energyefficiency #smartbuildings #highereducation #realtimeinsights
+#campusdata #spaceutilization #energyefficiency #smart/buildings #highereducation #realtimeinsights

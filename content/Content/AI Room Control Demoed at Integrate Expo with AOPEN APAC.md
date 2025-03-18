@@ -9,9 +9,9 @@ topics:
 - "[[AV]]"  
 - "[[AI]]"    
 tags:  
-- "#AIroomcontrol"  
-- "#smartmeetings"  
-- "#workplaceinnovation"  
+- "#ai/control"  
+- "#smart/meeting"  
+- "#workspaceinnovation"  
 - "#meetingtech"  
 - "#integrateexpo" 
 ---
@@ -44,4 +44,4 @@ This is just the beginning, more coming soon 👀
 
 #### Hashtags
 
-#AIroomcontrol #smartmeetings #workplaceinnovation #meetingtech #integrateexpo
+#ai/control #smart/meeting #workspaceinnovation #meetingtech #integrateexpo

@@ -6,10 +6,10 @@ type: "Text"
 topics:  
 - "[[Sales]]"   
 tags:  
-- "#DubaiTrip"  
-- "#Networking"  
-- "#BusinessTravel"  
-- "#MeetUp"  
+- "#dubaitrip"  
+- "#networking"  
+- "#businesstravel"  
+- "#meetup"  
 ---
 
 
@@ -34,4 +34,4 @@ Hit me up if you would like to meet.
 [[Sales]]  
 #### Hashtags
 
-#DubaiTrip #Networking #BusinessTravel #MeetUp
+#dubaitrip #networking #businesstravel #meetup

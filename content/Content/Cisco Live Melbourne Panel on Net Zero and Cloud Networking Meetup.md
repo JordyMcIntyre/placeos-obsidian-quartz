@@ -7,17 +7,17 @@ topics:
 - "[[Sustainability]]"  
 - "[[Event]]"    
 tags:  
-- "#Ciscolive"  
-- "#Melbourne"  
-- "#NetZero"  
-- "#CloudNetworking"  
-- "#Meraki"  
-- "#TechEvent"
+- "#ciscolive"  
+- "#melbourne"  
+- "#netzero"  
+- "#cloudnetworking"  
+- "#meraki"  
+- "#tech/event"
 ---
 
   
 
-At **#Ciscolive** in Melbourne today? I’m on a panel with Meraki at 4 pm in Melbourne Room 2 (level two of the convention centre).  
+At **#ciscolive** in Melbourne today? I’m on a panel with Meraki at 4 pm in Melbourne Room 2 (level two of the convention centre).  
 We will discuss net zero targets.
 
 And at 5 pm today you can find me at a booth in the Cloud Networking area until 7 pm.
@@ -42,4 +42,4 @@ After all that, I'll need a beer.
 
 #### Hashtags
 
-#Ciscolive #Melbourne #NetZero #CloudNetworking #Meraki #TechEvent
+#ciscolive #melbourne #netzero #cloudnetworking #meraki #tech/event
