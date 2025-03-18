@@ -1,5 +1,5 @@
 ---
-title: "Reflections On Cisco Live Melbourne Gratitude For Colleagues And Event Highlights  
+title: "Reflections On Cisco Live Melbourne"  
 date: "2023-12-07"  
 author: "Jonathan McFarlane"  
 type: "Image"  
